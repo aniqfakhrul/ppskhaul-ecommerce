@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hijanahhaul.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hijanahhaul.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hijanahhaul.com/collections/frontpage.atom"/>
+  <title>Hijanah Haul</title>
+  <updated>2019-11-30T12:07:29+08:00</updated>
+  <author>
+    <name>Hijanah Haul</name>
+  </author>
+  <entry>
+    <id>https://hijanahhaul.com/products/4352105840753</id>
+    <published>2019-11-30T12:07:29+08:00</published>
+    <updated>2019-11-30T12:07:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://hijanahhaul.com/products/carla-abaya"/>
+    <title>Carla Abaya</title>
+    <s:type></s:type>
+    <s:vendor>Hijanah Haul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/7895/2758/products/hijanahhaul-studio-shoot-6.11.2019-44225-mh1575082181439.jpg?v=1575084534" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hijanah Haul<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            159.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Product description</strong></p>
+<ul>
+<li>Material : dull satin &amp; kneet Fabric</li>
+<li>Design : Loose, A cut</li>
+<li>Consist of 2 layers ; inner (dull satin), outer from Shoudler to Waist Covered by Elegeant Keneet fabric. And from waist to Bottom down Covered by Pleats pleated</li>
+<li>8' inch hidden neck zipper</li>
+<li>wudhu friendly (consist of small flat buttons on the wrist of the both sides)</li>
+<li>round colar</li>
+</ul>
+<p> </p>
+<p><strong>Care instruction</strong></p>
+<ul>
+<li>Machine/Hand wash, cold wash, do not tumble dry or bleach</li>
+<li>Low to medium heat iron </li>
+</ul>
+<p> </p>
+<p><strong>Note:</strong></p>
+<ul>
+<li>We would recommend delicate wash if you're using a washing machine. Hand wash is highly recommended to maintain fabric quality.</li>
+<li>The colours in the pictures may be slightly different based on lighting and individual screen resolution settings on each device.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hijanahhaul.com/products/4352105840753</id>
+      <title>XS</title>
+      <s:price currency="MYR">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hijanahhaul.com/products/4352105840753</id>
+      <title>S</title>
+      <s:price currency="MYR">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hijanahhaul.com/products/4352105840753</id>
+      <title>M</title>
+      <s:price currency="MYR">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hijanahhaul.com/products/4352105840753</id>
+      <title>L</title>
+      <s:price currency="MYR">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hijanahhaul.com/products/4352105840753</id>
+      <title>XL</title>
+      <s:price currency="MYR">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hijanahhaul.com/products/4352105840753</id>
+      <title>XXL</title>
+      <s:price currency="MYR">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hijanahhaul.com/products/2230154133558</id>
+    <published>2019-07-22T23:31:39+08:00</published>
+    <updated>2019-07-22T23:31:39+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://hijanahhaul.com/products/laura-abaya"/>
+    <title>Laura Abaya</title>
+    <s:type></s:type>
+    <s:vendor>Hijanah Haul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5732.jpg?v=1564485149" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hijanah Haul<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            147.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Product Description</strong></p>
+<ul>
+<li>Material : dull satin &amp; soft lace</li>
+<li>Design : Loose, A cut</li>
+<li>Consist of 2 layers ; inner (dull satin), outer (soft lace - from waist to the bottom)</li>
+<li>8' inch hidden neck zipper</li>
+<li>wudhu friendly (hidden sleeve zipper)</li>
+</ul>
+<p> </p>
+<meta charset="utf-8"><meta charset="utf-8">
+<p><strong>Care instruction</strong></p>
+<ul>
+<li>Machine/Hand wash, cold wash, do not tumble dry or bleach</li>
+<li>Low to medium heat iron </li>
+</ul>
+<p> </p>
+<p><strong>Note:</strong></p>
+<ul>
+<li>We would recommend delicate wash if you're using a washing machine. Hand wash is highly recommended to maintain fabric quality.</li>
+<li>The colours in the pictures may be slightly different based on lighting and individual screen resolution settings on each device.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hijanahhaul.com/products/2230154133558</id>
+      <title>S&amp;M</title>
+      <s:price currency="MYR">147.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hijanahhaul.com/products/2230154133558</id>
+      <title>L</title>
+      <s:price currency="MYR">147.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hijanahhaul.com/products/2230141878326</id>
+    <published>2019-07-22T23:25:08+08:00</published>
+    <updated>2019-07-22T23:25:08+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://hijanahhaul.com/products/laudya-abaya"/>
+    <title>Laudya Abaya</title>
+    <s:type></s:type>
+    <s:vendor>Hijanah Haul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5594.jpg?v=1564505966" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hijanah Haul<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            129.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Product Description</strong></p>
+<ul>
+<li>Material : dull satin &amp; Indonesia Batik</li>
+<li>Design : Loose, straight cut cardigan abaya</li>
+<li>5 small flat buttons on the border of the both sides</li>
+<li>wudhu friendly (hidden sleeve zipper)</li>
+<li>not include the black inner</li>
+</ul>
+<p> </p>
+<meta charset="utf-8"><meta charset="utf-8">
+<p><strong>Care instruction</strong></p>
+<ul>
+<li>Machine/Hand wash, cold wash, do not tumble dry or bleach</li>
+<li>Low to medium heat iron </li>
+</ul>
+<p> </p>
+<p><strong>Note:</strong></p>
+<ul>
+<li>We would recommend delicate wash if you're using a washing machine. Hand wash is highly recommended to maintain fabric quality.</li>
+<li>The colours in the pictures may be slightly different based on lighting and individual screen resolution settings on each device.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hijanahhaul.com/products/2230141878326</id>
+      <title>S&amp;M</title>
+      <s:price currency="MYR">129.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hijanahhaul.com/products/2230141878326</id>
+      <title>L</title>
+      <s:price currency="MYR">129.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hijanahhaul.com/products/2230129852470</id>
+    <published>2019-07-22T23:18:36+08:00</published>
+    <updated>2019-07-22T23:18:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://hijanahhaul.com/products/carmelina-abaya"/>
+    <title>Carmelina Abaya</title>
+    <s:type></s:type>
+    <s:vendor>Hijanah Haul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5819.jpg?v=1564505849" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hijanah Haul<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            147.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><strong>Product description</strong></p>
+<ul>
+<li>Material : dull satin &amp; brocade</li>
+<li>Design : Loose, straight cut cardigan abaya</li>
+<li>5 small flat buttons on the border of the both sides</li>
+<li>wudhu friendly</li>
+<li>front pockets</li>
+</ul>
+<p> </p>
+<meta charset="utf-8"><meta charset="utf-8">
+<p><strong>Care instruction</strong></p>
+<ul>
+<li>Machine/Hand wash, cold wash, do not tumble dry or bleach</li>
+<li>Low to medium heat iron </li>
+</ul>
+<p> </p>
+<p><strong>Note:</strong></p>
+<ul>
+<li>We would recommend delicate wash if you're using a washing machine. Hand wash is highly recommended to maintain fabric quality.</li>
+<li>The colours in the pictures may be slightly different based on lighting and individual screen resolution settings on each device.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hijanahhaul.com/products/2230129852470</id>
+      <title>S&amp;M</title>
+      <s:price currency="MYR">147.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hijanahhaul.com/products/2230129852470</id>
+      <title>L</title>
+      <s:price currency="MYR">147.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hijanahhaul.com/products/2229106638902</id>
+    <published>2019-07-22T17:32:46+08:00</published>
+    <updated>2019-07-22T17:32:46+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://hijanahhaul.com/products/calice-abaya"/>
+    <title>Calice Abaya</title>
+    <s:type></s:type>
+    <s:vendor>Hijanah Haul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5853.jpg?v=1564505825" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hijanah Haul<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            139.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><strong>Product description</strong></p>
+<ul>
+<li>Material : dull satin &amp; embroiderry lace</li>
+<li>Design : Loose, straight cut cardigan abaya</li>
+<li>5 small flat buttons on the border of the both sides</li>
+<li>wudhu friendly (hidden sleeve zipper)</li>
+</ul>
+<p> </p>
+<meta charset="utf-8">
+<p><strong>Care instruction</strong></p>
+<ul>
+<li>Machine/Hand wash, cold wash, do not tumble dry or bleach</li>
+<li>Low to medium heat iron </li>
+</ul>
+<p> </p>
+<p><strong>Note:</strong></p>
+<ul>
+<li>We would recommend delicate wash if you're using a washing machine. Hand wash is highly recommended to maintain fabric quality.</li>
+<li>The colours in the pictures may be slightly different based on lighting and individual screen resolution settings on each device.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hijanahhaul.com/products/2229106638902</id>
+      <title>XS</title>
+      <s:price currency="MYR">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hijanahhaul.com/products/2229106638902</id>
+      <title>XL</title>
+      <s:price currency="MYR">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hijanahhaul.com/products/2229106638902</id>
+      <title>S&amp;M</title>
+      <s:price currency="MYR">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hijanahhaul.com/products/2229106638902</id>
+      <title>L</title>
+      <s:price currency="MYR">139.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hijanahhaul.com/products/2229085962294</id>
+    <published>2019-07-22T17:22:07+08:00</published>
+    <updated>2019-07-22T17:22:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://hijanahhaul.com/products/fella-abaya"/>
+    <title>Fella Abaya</title>
+    <s:type></s:type>
+    <s:vendor>Hijanah Haul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5688.jpg?v=1564505865" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hijanah Haul<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            129.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><strong>Product description</strong></p>
+<ul>
+<li>Material : dull satin &amp; soft net</li>
+<li>Design : Loose, A cut</li>
+<li>Consist of 2 layers ; inner (dull satin), outer (soft net - from waist to the bottom)</li>
+<li>8' inch hidden neck zipper</li>
+<li>wudhu friendly (consist of small flat buttons on the wrist of the both sides)</li>
+</ul>
+<p> </p>
+<meta charset="utf-8"><meta charset="utf-8">
+<p><strong>Care instruction</strong></p>
+<ul>
+<li>Machine/Hand wash, cold wash, do not tumble dry or bleach</li>
+<li>Low to medium heat iron </li>
+</ul>
+<p> </p>
+<p><strong>Note:</strong></p>
+<ul>
+<li>We would recommend delicate wash if you're using a washing machine. Hand wash is highly recommended to maintain fabric quality.</li>
+<li>The colours in the pictures may be slightly different based on lighting and individual screen resolution settings on each device.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hijanahhaul.com/products/2229085962294</id>
+      <title>S&amp;M</title>
+      <s:price currency="MYR">129.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hijanahhaul.com/products/2229085962294</id>
+      <title>L</title>
+      <s:price currency="MYR">129.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hijanahhaul.com/products/2220263440438</id>
+    <published>2019-07-17T15:09:00+08:00</published>
+    <updated>2019-07-17T15:09:00+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://hijanahhaul.com/products/kareena-abaya"/>
+    <title>Kareena Abaya</title>
+    <s:type></s:type>
+    <s:vendor>Hijanah Haul</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5611.jpg?v=1564505886" /></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hijanah Haul<br />
+        <strong>Type: </strong><br />
+        <strong>Price: </strong>
+            152.00 - 159.00
+            <a href="https://hijanahhaul.com/products/kareena-abaya">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>Product Description</strong></p>
+<ul>
+<li>Material : dull satin &amp; Indian saree</li>
+<li>Design : Loose, straight cut</li>
+<li>Consist of 2 layers ; inner (dull satin), right/left side outer (Indian saree - from top to the bottom)</li>
+<li>8' inch hidden neck zipper</li>
+<li>wudhu friendly (hidden sleeve zipper)</li>
+</ul>
+<p> </p>
+<meta charset="utf-8"><meta charset="utf-8">
+<p><strong>Care instruction</strong></p>
+<ul>
+<li>Machine/Hand wash, cold wash, do not tumble dry or bleach</li>
+<li>Low to medium heat iron </li>
+</ul>
+<p> </p>
+<p><strong>Note:</strong></p>
+<ul>
+<li>We would recommend delicate wash if you're using a washing machine. Hand wash is highly recommended to maintain fabric quality.</li>
+<li>The colours in the pictures may be slightly different based on lighting and individual screen resolution settings on each device.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://hijanahhaul.com/products/2220263440438</id>
+      <title>Xs</title>
+      <s:price currency="MYR">152.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hijanahhaul.com/products/2220263440438</id>
+      <title>S&amp;M</title>
+      <s:price currency="MYR">152.00</s:price>
+      <s:sku>0</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hijanahhaul.com/products/2220263440438</id>
+      <title>L</title>
+      <s:price currency="MYR">152.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://hijanahhaul.com/products/2220263440438</id>
+      <title>XL</title>
+      <s:price currency="MYR">159.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>
