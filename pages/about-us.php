@@ -96,7 +96,7 @@
 <h1 style="text-align: center; font-size: 70px; margin-bottom: 50px">PPSK Haul</h1>
 <div style="text-align: center;">
 <meta charset="utf-8">
-<p>The idea of <strong>PPSK HAUL</strong> was founded i<span>n July 2019 </span>by the lovely married couple Aisyah Hijanah and Alif Teega. Primarily is based in Kuala Lumpur, Malaysia. The name ppskhaul originates from the name of our own founders an co founder which we are from Perak, Perlis, Sabah and Kelantan.</p>
+<p>The idea of <strong>PPSK HAUL</strong> was founded i<span>n November 2019 </span>by four persons which are currently students of IIUM. Primarily is based in Kuala Lumpur, Malaysia. The name ppskhaul originates from the name of our own founders an co founder which we are from Perak, Perlis, Sabah and Kelantan.</p>
 <p>-</p>
 <p><strong>PPSK HAUL </strong>anticipates to contribute as one of the shariah compliance fashion brands with suitable, acceptable and exclusive designs. We expect to meet the demand of muslimah fashion worldwide in line with its theme 'Syarie, modesty, beauty'. We provides contemporary modest clothing while keeping up with the rapidity of current style. As image is a reflection of Deen, we aim to contribute as a dakwah Medium through fashion industry.</p>
 <p><b>-</b></p>
