@@ -1,4 +1,5 @@
 <?php include '../header.php' ?>
+
 <style>
   .theme-logo img{
     max-width: 225px;
@@ -62,9 +63,7 @@
       
 
 
-      
-      <span>Sport Wear</span>
-      
+      <span>Privacy Policy</span>
 
       
     </li>
@@ -90,385 +89,51 @@
 
           
           <div class="mlvedaform">
-            
-
-
-
-
-
-<div id="shopify-section-collection-template" class="shopify-section">
-<div class="shop-area" id="section-collection-template">
-  <div class="container ">
-    <div class="row flex-row-reverse">
-      <div class="col-lg-9 col-12"><div class="shop-top-bar">
-
-<div class="select-shoing-wrap"><div class="shop-select">
-    <select name="SortBy" id="SortBy">
-       <option value="manual">Featured</option>
-      <option value="best-selling">Best Selling</option>
-      <option value="title-ascending">Alphabetically, A-Z</option>
-      <option value="title-descending">Alphabetically, Z-A</option>
-      <option value="price-ascending">Price, low to high</option>
-      <option value="price-descending">Price, high to low</option>
-      <option value="created-descending">Date, new to old</option>
-      <option value="created-ascending">Date, old to new</option>
-    </select>
-  </div>
-  <p>Showing  
-    1 - 1 
-     of  
-    1 
-     result </p></div><div class="shop-tab">
-   <button class="change-view active" data-view="grid">
-    <i class="fa fa-table"></i>
-  </button>
-  <button class="change-view" data-view="list">
-    <i class="fa fa-list-ul"></i>
-  </button>
-  
-</div><script>
-  Shopify.queryParams = {};
-  if (location.search.length) {
-    for (var aKeyValue, i = 0, aCouples = location.search.substr(1).split('&'); i < aCouples.length; i++) {
-      aKeyValue = aCouples[i].split('=');
-      if (aKeyValue.length > 1) {
-        Shopify.queryParams[decodeURIComponent(aKeyValue[0])] = decodeURIComponent(aKeyValue[1]);
-      }
-    }
-  }
-
-  $(function() {
-    $('#SortBy')
-    .val('best-selling')
-         .bind('change', function() {
-      Shopify.queryParams.sort_by = jQuery(this).val();
-      location.search = jQuery.param(Shopify.queryParams);
-    }
-    );
-  });
-</script>
-</div><div class="shop-bottom-area mt-35">
-          <div class="tab-content">
-            <div id="shop-1">
-              <div class="row"><div class="col-lg-4 col-md-6 col-6">
-
-
-
-<div class="product-wrap mb-25 scroll-zoom 31131917615217">
-  <div class="product-img">
-    <a href="sport-wear/products/ruby-sport-wear.html">
-      
-      <img class="default-img popup_cart_image" src="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/IMG_4425_large.jpg?v=1573574455" alt="Ruby Sport wear">
-      
-      <img class="hover-img popup_cart_image" src="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/IMG_4428_large.jpg?v=1573574455" alt="">
-      
-      
-    </a>
-
-
-
-<span class="sale-title pink">Sale</span>
-
-
-
-<span class="percent-count pink">-27%</span>
-
-
-
-
-
-
-<div class="product-action">
-      <div class="pro-same-action pro-wishlist">
-        
-
-  
-  <a title="Add Wishlist" class="wishlist" href="../account/login.html" title="Wishlist">
-    <i class="pe-7s-like"></i>
-  </a>
-  
-
-      </div>
-      <div class="pro-same-action pro-cart">
-        
-
-
-
-
-<a href="javascript:void(0);" onclick="Shopify.addItem(31131917615217, 1); return false;" class="ajax-spin-cart">
-  <span>
-    <span class="cart-title"><i class="pe-7s-cart"></i></span>
-    <span class="cart-loading"><i class="fa fa-circle-o-notch fa-spin"></i></span>
-    <span class="cart-added"><i class="fa fa-check"></i></span>
-    <span class="cart-unavailable"><i class="fa fa-times"></i></span>
-  </span>
-  Add to cart
-</a>
-
-
-
-
-
-
-
-
-
-
-
-      </div><div class="pro-same-action pro-quickview">
-        <a title="Quick View" class="action-plus" title="Quick View" data-toggle="modal" data-target="#quickViewModal" href="javascript:void(0);" 
-           onclick="quiqview('ruby-sport-wear')"><i class="pe-7s-look"></i>
-        </a>
-      </div></div>
-
-  </div>
-
-  <div class="product-content text-center">
-    <h3 class="popup_cart_title"><a href="sport-wear/products/ruby-sport-wear.html">Ruby Sport wear</a></h3>
-    <div class="product-rating">
-      <span class="shopify-product-reviews-badge" data-id="4336407838833"></span>
-    </div>
-    <div class="product-price">
-      <span><span class=money>RM159.00 MYR</span></span>
-      
-      <span class="old"><span class=money>RM219.00 MYR</span></span>
-      
-    </div>
-  </div>
-
-</div></div></div>
-            </div>
-          </div>
-          <div class="pro-pagination-style text-center mt-30">
-
-
-<script>
-  $(".theme-default-pagination .disabled a").removeAttr("href");
-  $(".theme-default-pagination li.active a").removeAttr("href");
-</script></div>
-        </div></div><div class="col-lg-3">
-
-
-
-
-<div class="sidebar-style">
-  
-  
-  
-  <div class="sidebar-widget"><h4 class="pro-sidebar-title">Search </h4><div class="pro-sidebar-search mt-25">
-      <form class="pro-sidebar-search-form" aaction="/search" method="get" role="search">
-        <input type="search" name="q" value="" placeholder="Search our store" aria-label="Search our store">
-        <button type="submit">
-          <i class="pe-7s-search"></i>
-        </button>
-      </form>
-    </div>
-  </div>
-
-  
-  
-  
-  <div class="sidebar-widget mt-50"><h4 class="pro-sidebar-title">Custom Menu</h4><div class="sidebar-widget-list mt-20">
-      <ul>
-        
-        
-        <li class="">
-          <div class="sidebar-widget-list-left">
-            <a href="../collections.html">New Arrival</a>
-          </div>
-        </li>
-        
-        <li class="">
-          <div class="sidebar-widget-list-left">
-            <a href="frontpage.html">Abaya</a>
-          </div>
-        </li>
-        
-      </ul>
-    </div>
-  </div>
-
-  
-  
-  
-  <div class="sidebar-widget mt-50"><h4 class="pro-sidebar-title">Categories</h4><div class="sidebar-widget-list mt-30">
-      <ul>
-        
-        
-        <li class="">
-          <div class="sidebar-widget-list-left">
-            <a href="frontpage.html">Abaya <span>7</span> </a> 
-          </div>
-        </li>
-        
-        <li class="">
-          <div class="sidebar-widget-list-left">
-            <a href="best-selling-products.html">Best Selling Products <span>13</span> </a> 
-          </div>
-        </li>
-        
-        <li class="">
-          <div class="sidebar-widget-list-left">
-            <a href="clearance.html">Clearance <span>7</span> </a> 
-          </div>
-        </li>
-        
-        <li class="">
-          <div class="sidebar-widget-list-left">
-            <a href="new-in.html">New Arrival <span>7</span> </a> 
-          </div>
-        </li>
-        
-        <li class="">
-          <div class="sidebar-widget-list-left">
-            <a href="newest-products.html">Newest Products <span>13</span> </a> 
-          </div>
-        </li>
-        
-
-      </ul>
-    </div>
-  </div>
-
-  
-  
-  
-  <div class="sidebar-widget mt-50"><h4 class="pro-sidebar-title">Vendors</h4><div class="sidebar-widget-list mt-20">
-      <ul>
-        
-        
-        <li class="">
-          <div class="sidebar-widget-list-left">
-            <a href="vendors446d.html?q=PPSK%20Haul">PPSK Haul</a>
-          </div>
-        </li>
-        
-      </ul>
-    </div>
-  </div>
-
-  
-  
-  
-  <div class="sidebar-widget mt-50"><h4 class="pro-sidebar-title">Products Types</h4><div class="sidebar-widget-list mt-20">
-      <ul>
-        
-        
-
-      </ul>
-    </div>
-  </div>
-
-
-  
-  
-  
-  <div class="sidebar-widget mt-50"><h4 class="pro-sidebar-title">Color</h4><div class="sidebar-widget-list mt-20">
-      <ul>
-        
-        
-
-        
-        
-
-        
-
-        
-
-        
-
-        
-
-
-      </ul>
-    </div>
-  </div>
-  
-  
-  
-  
-  <div class="sidebar-widget mt-40"><h4 class="pro-sidebar-title">Size</h4><div class="sidebar-widget-list mt-20">
-      <ul>
-        
-          
-      
-
-      
-      
-
-      
-
-      
-
-      
-
-      
-
-        
-        
-      </ul>
-    </div>
-  </div>
-
-  
-  
-  
-  <div class="sidebar-widget mt-50"><h4 class="pro-sidebar-title">Tags</h4><div class="sidebar-widget-tag mt-25">
-      <ul>
-        
-        
-      </ul>
-    </div>
-  </div>
-  
-
-  
-  
-  
-  
-  
+            <div class="create-custom-page">
+  <div class="container">
+    <meta charset="utf-8"><meta charset="utf-8">
+<h2 style="text-align: center;"><span style="text-decoration: underline;">PRIVACY POLICY OF PPSK HAUL</span></h2>
+<p> </p>
+<div style="text-align: center;">PPSK HAUL operates the <a href="../index.html" target="_blank" rel="noopener noreferrer">https://ppskhaul.com/ website</a>, which provides the Service. This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service. If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. <strong>We will not use or share your information with anyone except as described in this Privacy Policy.</strong>
 </div>
-
-
-
-
-
-<script>
-  $(".sidebar-widget li.active a").removeAttr("href");
-
-  $('.category-sub-menu li.has-sub > a').on('click', function () {
-    $(this).removeAttr('href');
-    var element = $(this).parent('li');
-    if (element.hasClass('open')) {
-      element.removeClass('open');
-      element.find('li').removeClass('open');
-      element.find('ul').slideUp();
-    } else {
-      element.addClass('open');
-      element.children('ul').slideDown();
-      element.siblings('li').children('ul').slideUp();
-      element.siblings('li').removeClass('open');
-      element.siblings('li').find('li').removeClass('open');
-      element.siblings('li').find('ul').slideUp();
-    }
-  }); 
-</script></div></div>
+<div style="text-align: center;">-</div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;">The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at https://ppskhaul.com/, unless otherwise defined in this Privacy Policy. Information Collection and Use For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to your name, phone number, and postal address. The information that we collect will be used to contact or identify you.</div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;">-</div>
+<div style="text-align: center;"></div>
+<h3>Log Data</h3>
+<p>We want to inform you that whenever you visit our Service, we collect information that your browser sends to us that is called Log Data. This Log Data may include information such as your computer’s Internet Protocol ("IP") address, browser version, pages of our Service that you visit, the time and date of your visit, the time spent on those pages, and other statistics.</p>
+<p> </p>
+<h3>Cookies</h3>
+<p>Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your computer’s hard drive.</p>
+<p>Our website uses these "cookies" to collection information and to improve our Service. You have the option to either accept or refuse these cookies, and know when a cookie is being sent to your computer. If you choose to refuse our cookies, you may not be able to use some portions of our Service.</p>
+<p> </p>
+<h3>Service Providers</h3>
+<p>We may employ third-party companies and individuals due to the following reasons:</p>
+<ul>
+<li>To facilitate our Service;</li>
+<li>To provide the Service on our behalf;</li>
+<li>To perform Service-related services; or</li>
+<li>To assist us in analyzing how our Service is used.</li>
+</ul>
+<p>We want to inform our Service users that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.</p>
+<p> </p>
+<h3>Security</h3>
+<p>We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.</p>
+<p> </p>
+<h3>Links to Other Sites</h3>
+<p>Our Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over, and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.</p>
+<p>Children’s Privacy</p>
+<p>Our Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.</p>
+<p> </p>
+<h3>Changes to This Privacy Policy</h3>
+<p>We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.</p>
+<p> </p>
+<h3>Contact Us</h3>
+<p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.</p>
   </div>
-</div><style data-shopify>#section-collection-template{padding-top: 90px;
-    padding-bottom: 90px;}
-  @media (min-width: 768px) and (max-width: 991px) {
-    #section-collection-template{padding-top: 80px;
-      padding-bottom: 80px;}
-  }
-  @media (max-width: 767px) {
-    #section-collection-template{padding-top: 70px;
-      padding-bottom: 70px;}
-  }</style>
 </div>
-
-
-
-
             <script>
 $m(".mlvedaform").bind("DOMSubtreeModified", function() {
  
@@ -808,4 +473,5 @@ $m("body").delegate("select", "change", function(event) {
 </script>
           
     </main>
+
 <?php include '../footer.php' ?>

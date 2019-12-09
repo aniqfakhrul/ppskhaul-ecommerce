@@ -117,7 +117,7 @@
 <h4>1. How do I place an order?</h4>
 <p>For tutorial please Click <a href="how-to-start-shopping.html">here</a>  </p>
 <h4>2. What do I do if there's a problem with my order?</h4>
-<p>Please do not hesitate to contact our customer service representatives either through email at info@hijanahhaul.com or call 01124328470.</p>
+<p>Please do not hesitate to contact our customer service representatives either through email at info@ppskhaul.com or call 01124328470.</p>
 <h4>3. What payment methods do you accept?</h4>
 <p>You can either pay by:</p>
 <ul class="my-ulist">
@@ -134,7 +134,7 @@
 <h4>6. How do I cancel an item from my order?</h4>
 <p>Please notify us as soon as possible to avoid difficulties.</p>
 <h4>7. Why was my order canceled?</h4>
-<p>In most cases, orders are automatically canceled if we do not receive payments from you via MOLPay/PayPal. However, if the amount has been deducted from your bank account, kindly email us at<span> </span>info@hijanahhaul.com<span> </span>and we will sort it out right away!</p>
+<p>In most cases, orders are automatically canceled if we do not receive payments from you via MOLPay/PayPal. However, if the amount has been deducted from your bank account, kindly email us at<span> </span>info@ppskhaul.com<span> </span>and we will sort it out right away!</p>
 <h4>8. How do I add an item to my order after checking out?</h4>
 <p>You will need to make a separate order.</p>
 <h4>9. I received my order, but one of them is missing. What do I do?</h4>
@@ -150,7 +150,7 @@
 <meta charset="utf-8">
 <h4>1. What is your returns policy?</h4>
 <p>We accept 'return' product provided that it is within 10 days of receipt. The product should be in good and immaculate condition with original packaging and attached price tag. We would appreciate if you inform us much earlier. However, if you receive faulty item, we can exchange it subject to the available stock.</p>
-<p>For returns and exchanges, customers are advised to notify us first at<span> </span><a>info@hijanahhaul.com</a><span> </span>by quoting the order number and product details. Please refer our terms and conditions <a href="terms-conditions.html" target="_blank" rel="noopener noreferrer">here</a></p>
+<p>For returns and exchanges, customers are advised to notify us first at<span> </span><a>info@ppskhaul.com</a><span> </span>by quoting the order number and product details. Please refer our terms and conditions <a href="terms-conditions.html" target="_blank" rel="noopener noreferrer">here</a></p>
 <p> </p>
 <p> </p>
   </div>
@@ -274,7 +274,7 @@ var mlveda_observer = new MutationObserver(function(mutations){
 <script>
   console.log("here");
 
-var mlvedaCallUrl = "//www.mlveda.com/ShopifyApps/ShopifyMultiPricing/getLocation?shop=hijanah-haul.myshopify.com&rnd=" + Math.floor((Math.random() * 10000000000) + 1);
+var mlvedaCallUrl = "//www.mlveda.com/ShopifyApps/ShopifyMultiPricing/getLocation?shop=ppsk-haul.myshopify.com&rnd=" + Math.floor((Math.random() * 10000000000) + 1);
       
 var syncWithThemePageFlag = false;   
 

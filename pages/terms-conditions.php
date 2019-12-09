@@ -1,4 +1,6 @@
 <?php include '../header.php' ?>
+
+
 <style>
   .theme-logo img{
     max-width: 225px;
@@ -62,9 +64,7 @@
       
 
 
-      
-      <span>Sport Wear</span>
-      
+      <span>Terms & Conditions</span>
 
       
     </li>
@@ -90,385 +90,53 @@
 
           
           <div class="mlvedaform">
-            
-
-
-
-
-
-<div id="shopify-section-collection-template" class="shopify-section">
-<div class="shop-area" id="section-collection-template">
-  <div class="container ">
-    <div class="row flex-row-reverse">
-      <div class="col-lg-9 col-12"><div class="shop-top-bar">
-
-<div class="select-shoing-wrap"><div class="shop-select">
-    <select name="SortBy" id="SortBy">
-       <option value="manual">Featured</option>
-      <option value="best-selling">Best Selling</option>
-      <option value="title-ascending">Alphabetically, A-Z</option>
-      <option value="title-descending">Alphabetically, Z-A</option>
-      <option value="price-ascending">Price, low to high</option>
-      <option value="price-descending">Price, high to low</option>
-      <option value="created-descending">Date, new to old</option>
-      <option value="created-ascending">Date, old to new</option>
-    </select>
+            <div class="create-custom-page">
+  <div class="container">
+    <meta charset="utf-8">
+<p> </p>
+<h2 style="text-align: center;"><span style="text-decoration: underline; color: #000000;">TERMS AND CONDITIONS</span></h2>
+<div style="text-align: center;"><strong><span>Welcome to PPSK Haul Website. PPSK Haul provides services to you will be subjected to the notices, terms, and conditions set forth in this agreement. In addition, when you use any of our services, you will be subject to the rules, guidelines, policies, terms, and conditions applicable to such service, and they are incorporated into this Agreement by this reference. </span></strong></div>
+<div style="text-align: center;"><strong><span>-</span></strong></div>
+<div style="text-align: center;"><strong><span></span></strong></div>
+<div style="text-align: center;"><strong><span></span></strong></div>
+<h3><strong>Customer Satisfaction</strong></h3>
+<meta charset="utf-8">
+<ul>
+<li style="text-align: left; list-style-position: outside;">At PPSK Haul, customer satisfaction is our priority.</li>
+<li style="text-align: left; list-style-position: outside;">
+<b>We </b>believe that our quality control system will guarantee that immaculate clothings that we have created, We assure that our products are tailored exclusively from high premium quality fabrics and sewn with great care and high-end tailoring. <strong>We </strong>provide exclusive designs of the highest standards at affordable price ranges. </li>
+<li style="text-align: left; list-style-position: outside;">Our shipments are carefully inspected before leaving our warehouse.</li>
+<li style="text-align: left; list-style-position: outside;">But in the event, you received faulty item, simply follow the instructions in Returns and Exchanges.</li>
+</ul>
+<p> </p>
+<h3><strong>Returns and Exchanges.</strong></h3>
+<meta charset="utf-8">
+<ul>
+<li style="list-style-position: outside;">We take great measures to ensure our product quality but sometimes things can go wrong during delivery. Please help us take a photo of your item (the part that is faulty) and include a short description along with your order ID and email info@ppskhaul.com. We will exchange your item with a new one at our expense. </li>
+<li style="list-style-position: outside;">If you received faulty item, you can return the item within 10 days of original receipt for exchange with the same faulty item; collection, colour, and size. However please make sure that the tag price remain intact.</li>
+</ul>
+<p> </p>
+<meta charset="utf-8">
+<h3><strong>Shipping</strong></h3>
+<p>Online Orders:</p>
+<ul>
+<li style="list-style-position: outside;">All orders are packed for delivery by the next business day once payment is received successfully. And normally 3 working days. For international shipping it varies according to the local courier, usually takes within 5 - 7 working days.</li>
+<li style="list-style-position: outside;">We will ensure that all parcels are carefully wrapped and secure before delivery. We will not be held responsible or  for any damaged or loss packages during the delivery caused by Poslaju</li>
+</ul>
+<ul></ul>
+<p>  </p>
+<h3><strong>Product Information </strong></h3>
+<meta charset="utf-8"><meta charset="utf-8">
+<ul>
+<li style="list-style-position: outside;">The prices displayed on our website are quoted in Malaysia Ringgit (RM).</li>
+<li style="list-style-position: outside;">
+<span>Regarding the colors of our products. </span>We make an effort to display the colours of our products as accurately as possible. However, we would like to inform that it will depend on monitor screen. Therefore, we cannot guarantee the accuracy of the colors involved. Colors of the products may differ slightly due to lighting/screen brightness of different gadget used to view this page.</li>
+<li style="list-style-position: outside;">Any return or refund items will not be permitted due to colour differences on monitor screen.</li>
+</ul>
+<p>  </p>
+<p>  </p>
   </div>
-  <p>Showing  
-    1 - 1 
-     of  
-    1 
-     result </p></div><div class="shop-tab">
-   <button class="change-view active" data-view="grid">
-    <i class="fa fa-table"></i>
-  </button>
-  <button class="change-view" data-view="list">
-    <i class="fa fa-list-ul"></i>
-  </button>
-  
-</div><script>
-  Shopify.queryParams = {};
-  if (location.search.length) {
-    for (var aKeyValue, i = 0, aCouples = location.search.substr(1).split('&'); i < aCouples.length; i++) {
-      aKeyValue = aCouples[i].split('=');
-      if (aKeyValue.length > 1) {
-        Shopify.queryParams[decodeURIComponent(aKeyValue[0])] = decodeURIComponent(aKeyValue[1]);
-      }
-    }
-  }
-
-  $(function() {
-    $('#SortBy')
-    .val('best-selling')
-         .bind('change', function() {
-      Shopify.queryParams.sort_by = jQuery(this).val();
-      location.search = jQuery.param(Shopify.queryParams);
-    }
-    );
-  });
-</script>
-</div><div class="shop-bottom-area mt-35">
-          <div class="tab-content">
-            <div id="shop-1">
-              <div class="row"><div class="col-lg-4 col-md-6 col-6">
-
-
-
-<div class="product-wrap mb-25 scroll-zoom 31131917615217">
-  <div class="product-img">
-    <a href="sport-wear/products/ruby-sport-wear.html">
-      
-      <img class="default-img popup_cart_image" src="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/IMG_4425_large.jpg?v=1573574455" alt="Ruby Sport wear">
-      
-      <img class="hover-img popup_cart_image" src="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/IMG_4428_large.jpg?v=1573574455" alt="">
-      
-      
-    </a>
-
-
-
-<span class="sale-title pink">Sale</span>
-
-
-
-<span class="percent-count pink">-27%</span>
-
-
-
-
-
-
-<div class="product-action">
-      <div class="pro-same-action pro-wishlist">
-        
-
-  
-  <a title="Add Wishlist" class="wishlist" href="../account/login.html" title="Wishlist">
-    <i class="pe-7s-like"></i>
-  </a>
-  
-
-      </div>
-      <div class="pro-same-action pro-cart">
-        
-
-
-
-
-<a href="javascript:void(0);" onclick="Shopify.addItem(31131917615217, 1); return false;" class="ajax-spin-cart">
-  <span>
-    <span class="cart-title"><i class="pe-7s-cart"></i></span>
-    <span class="cart-loading"><i class="fa fa-circle-o-notch fa-spin"></i></span>
-    <span class="cart-added"><i class="fa fa-check"></i></span>
-    <span class="cart-unavailable"><i class="fa fa-times"></i></span>
-  </span>
-  Add to cart
-</a>
-
-
-
-
-
-
-
-
-
-
-
-      </div><div class="pro-same-action pro-quickview">
-        <a title="Quick View" class="action-plus" title="Quick View" data-toggle="modal" data-target="#quickViewModal" href="javascript:void(0);" 
-           onclick="quiqview('ruby-sport-wear')"><i class="pe-7s-look"></i>
-        </a>
-      </div></div>
-
-  </div>
-
-  <div class="product-content text-center">
-    <h3 class="popup_cart_title"><a href="sport-wear/products/ruby-sport-wear.html">Ruby Sport wear</a></h3>
-    <div class="product-rating">
-      <span class="shopify-product-reviews-badge" data-id="4336407838833"></span>
-    </div>
-    <div class="product-price">
-      <span><span class=money>RM159.00 MYR</span></span>
-      
-      <span class="old"><span class=money>RM219.00 MYR</span></span>
-      
-    </div>
-  </div>
-
-</div></div></div>
-            </div>
-          </div>
-          <div class="pro-pagination-style text-center mt-30">
-
-
-<script>
-  $(".theme-default-pagination .disabled a").removeAttr("href");
-  $(".theme-default-pagination li.active a").removeAttr("href");
-</script></div>
-        </div></div><div class="col-lg-3">
-
-
-
-
-<div class="sidebar-style">
-  
-  
-  
-  <div class="sidebar-widget"><h4 class="pro-sidebar-title">Search </h4><div class="pro-sidebar-search mt-25">
-      <form class="pro-sidebar-search-form" aaction="/search" method="get" role="search">
-        <input type="search" name="q" value="" placeholder="Search our store" aria-label="Search our store">
-        <button type="submit">
-          <i class="pe-7s-search"></i>
-        </button>
-      </form>
-    </div>
-  </div>
-
-  
-  
-  
-  <div class="sidebar-widget mt-50"><h4 class="pro-sidebar-title">Custom Menu</h4><div class="sidebar-widget-list mt-20">
-      <ul>
-        
-        
-        <li class="">
-          <div class="sidebar-widget-list-left">
-            <a href="../collections.html">New Arrival</a>
-          </div>
-        </li>
-        
-        <li class="">
-          <div class="sidebar-widget-list-left">
-            <a href="frontpage.html">Abaya</a>
-          </div>
-        </li>
-        
-      </ul>
-    </div>
-  </div>
-
-  
-  
-  
-  <div class="sidebar-widget mt-50"><h4 class="pro-sidebar-title">Categories</h4><div class="sidebar-widget-list mt-30">
-      <ul>
-        
-        
-        <li class="">
-          <div class="sidebar-widget-list-left">
-            <a href="frontpage.html">Abaya <span>7</span> </a> 
-          </div>
-        </li>
-        
-        <li class="">
-          <div class="sidebar-widget-list-left">
-            <a href="best-selling-products.html">Best Selling Products <span>13</span> </a> 
-          </div>
-        </li>
-        
-        <li class="">
-          <div class="sidebar-widget-list-left">
-            <a href="clearance.html">Clearance <span>7</span> </a> 
-          </div>
-        </li>
-        
-        <li class="">
-          <div class="sidebar-widget-list-left">
-            <a href="new-in.html">New Arrival <span>7</span> </a> 
-          </div>
-        </li>
-        
-        <li class="">
-          <div class="sidebar-widget-list-left">
-            <a href="newest-products.html">Newest Products <span>13</span> </a> 
-          </div>
-        </li>
-        
-
-      </ul>
-    </div>
-  </div>
-
-  
-  
-  
-  <div class="sidebar-widget mt-50"><h4 class="pro-sidebar-title">Vendors</h4><div class="sidebar-widget-list mt-20">
-      <ul>
-        
-        
-        <li class="">
-          <div class="sidebar-widget-list-left">
-            <a href="vendors446d.html?q=PPSK%20Haul">PPSK Haul</a>
-          </div>
-        </li>
-        
-      </ul>
-    </div>
-  </div>
-
-  
-  
-  
-  <div class="sidebar-widget mt-50"><h4 class="pro-sidebar-title">Products Types</h4><div class="sidebar-widget-list mt-20">
-      <ul>
-        
-        
-
-      </ul>
-    </div>
-  </div>
-
-
-  
-  
-  
-  <div class="sidebar-widget mt-50"><h4 class="pro-sidebar-title">Color</h4><div class="sidebar-widget-list mt-20">
-      <ul>
-        
-        
-
-        
-        
-
-        
-
-        
-
-        
-
-        
-
-
-      </ul>
-    </div>
-  </div>
-  
-  
-  
-  
-  <div class="sidebar-widget mt-40"><h4 class="pro-sidebar-title">Size</h4><div class="sidebar-widget-list mt-20">
-      <ul>
-        
-          
-      
-
-      
-      
-
-      
-
-      
-
-      
-
-      
-
-        
-        
-      </ul>
-    </div>
-  </div>
-
-  
-  
-  
-  <div class="sidebar-widget mt-50"><h4 class="pro-sidebar-title">Tags</h4><div class="sidebar-widget-tag mt-25">
-      <ul>
-        
-        
-      </ul>
-    </div>
-  </div>
-  
-
-  
-  
-  
-  
-  
 </div>
-
-
-
-
-
-<script>
-  $(".sidebar-widget li.active a").removeAttr("href");
-
-  $('.category-sub-menu li.has-sub > a').on('click', function () {
-    $(this).removeAttr('href');
-    var element = $(this).parent('li');
-    if (element.hasClass('open')) {
-      element.removeClass('open');
-      element.find('li').removeClass('open');
-      element.find('ul').slideUp();
-    } else {
-      element.addClass('open');
-      element.children('ul').slideDown();
-      element.siblings('li').children('ul').slideUp();
-      element.siblings('li').removeClass('open');
-      element.siblings('li').find('li').removeClass('open');
-      element.siblings('li').find('ul').slideUp();
-    }
-  }); 
-</script></div></div>
-  </div>
-</div><style data-shopify>#section-collection-template{padding-top: 90px;
-    padding-bottom: 90px;}
-  @media (min-width: 768px) and (max-width: 991px) {
-    #section-collection-template{padding-top: 80px;
-      padding-bottom: 80px;}
-  }
-  @media (max-width: 767px) {
-    #section-collection-template{padding-top: 70px;
-      padding-bottom: 70px;}
-  }</style>
-</div>
-
-
-
-
             <script>
 $m(".mlvedaform").bind("DOMSubtreeModified", function() {
  
@@ -588,7 +256,7 @@ var mlveda_observer = new MutationObserver(function(mutations){
 <script>
   console.log("here");
 
-var mlvedaCallUrl = "//www.mlveda.com/ShopifyApps/ShopifyMultiPricing/getLocation?shop=hijanah-haul.myshopify.com&rnd=" + Math.floor((Math.random() * 10000000000) + 1);
+var mlvedaCallUrl = "//www.mlveda.com/ShopifyApps/ShopifyMultiPricing/getLocation?shop=ppsk-haul.myshopify.com&rnd=" + Math.floor((Math.random() * 10000000000) + 1);
       
 var syncWithThemePageFlag = false;   
 
