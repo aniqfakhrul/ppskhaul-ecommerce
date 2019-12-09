@@ -1,10 +1,7 @@
 <!doctype html>
 <!--[if IE 9]> <html class="ie9 no-js supports-no-cookies" lang="en"> <![endif]-->
 <!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js supports-no-cookies" lang="en"> <!--<![endif]-->
-
-
-<!-- Mirrored from hijanahhaul.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 05 Dec 2019 00:31:25 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
 
   
@@ -27,7 +24,7 @@
   <link rel="canonical" href="/"><link rel="shortcut icon" href="http://cdn.shopify.com/s/files/1/0167/7895/2758/files/logo-main_32x32.jpg?v=1563202310" type="image/png" /><!-- Title and description -->
   
   <title>
-  Hijanah Haul
+  PPSK Haul
   
   
   
@@ -36,11 +33,11 @@
 
 
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Hijanah Haul">
+  <meta property="og:title" content="PPSK Haul">
   <meta property="og:description" content="Your Number 1 Abaya">
 
-<meta property="og:url" content="https://hijanahhaul.com/">
-<meta property="og:site_name" content="Hijanah Haul">
+<meta property="og:url" content="https://ppskhaul.com/">
+<meta property="og:site_name" content="PPSK Haul">
 
 
 
@@ -48,7 +45,7 @@
   <meta name="twitter:card" content="summary">
 
 
-  <meta name="twitter:title" content="Hijanah Haul">
+  <meta name="twitter:title" content="PPSK Haul">
   <meta name="twitter:description" content="Your Number 1 Abaya">
 
 
@@ -94,7 +91,7 @@
 <meta id="in-context-paypal-metadata" data-shop-id="16778952758" data-venmo-supported="false" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="MYR">
 <style media="all">.additional-checkout-button{border:0 !important;border-radius:5px !important;display:inline-block;margin:0 0 10px;padding:0 24px !important;max-width:100%;min-width:150px !important;line-height:44px !important;text-align:center !important}.additional-checkout-button+.additional-checkout-button{margin-left:10px}.additional-checkout-button:last-child{margin-bottom:0}.additional-checkout-button span{font-size:14px !important}.additional-checkout-button img{display:inline-block !important;height:1.3em !important;margin:0 !important;vertical-align:middle !important;width:auto !important}@media (max-width: 500px){.additional-checkout-button{display:block;margin-left:0 !important;padding:0 10px !important;width:100%}}.additional-checkout-button--apple-pay{background-color:#000 !important;color:#fff !important;display:none;font-family:-apple-system, Helvetica Neue, sans-serif !important;min-width:150px !important;white-space:nowrap !important}.additional-checkout-button--apple-pay:hover,.additional-checkout-button--apple-pay:active,.additional-checkout-button--apple-pay:visited{color:#fff !important;text-decoration:none !important}.additional-checkout-button--apple-pay .additional-checkout-button__logo{background:-webkit-named-image(apple-pay-logo-white) center center no-repeat !important;background-size:auto 100% !important;display:inline-block !important;vertical-align:middle !important;width:3em !important;height:1.3em !important}@media (max-width: 500px){.additional-checkout-button--apple-pay{display:none}}.additional-checkout-button--google-pay{line-height:0 !important;padding:0 !important;border-radius:unset !important;width:80px !important}@media (max-width: 500px){.additional-checkout-button--google-pay{width:100% !important}}.gpay-iframe{height:44px !important;width:100%  !important;cursor:pointer;vertical-align:middle !important}.additional-checkout-button--paypal-express{background-color:#ffc439 !important}.additional-checkout-button--paypal,.additional-checkout-button--venmo{vertical-align:top;line-height:0 !important;padding:0 !important}.additional-checkout-button--amazon{background-color:#fad676 !important;position:relative !important}.additional-checkout-button--amazon .additional-checkout-button__logo{-webkit-transform:translateY(4px) !important;transform:translateY(4px) !important}.additional-checkout-button--amazon .alt-payment-list-amazon-button-image{max-height:none !important;opacity:0 !important;position:absolute !important;top:0 !important;left:0 !important;width:100% !important;height:100% !important}.additional-checkout-button-visually-hidden{border:0 !important;clip:rect(0, 0, 0, 0) !important;clip:rect(0 0 0 0) !important;width:1px !important;height:1px !important;margin:-2px !important;overflow:hidden !important;padding:0 !important;position:absolute !important}
 </style>
-<script id="shopify-features" type="application/json">{"accessToken":"c04bcfd20d45cc617f56a0b659238b46","betas":[],"domain":"hijanahhaul.com","predictiveSearch":true,"shopId":16778952758,"smart_payment_buttons_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js"}</script>
+<script id="shopify-features" type="application/json">{"accessToken":"c04bcfd20d45cc617f56a0b659238b46","betas":[],"domain":"ppskhaul.com","predictiveSearch":true,"shopId":16778952758,"smart_payment_buttons_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js"}</script>
 <script>var Shopify = Shopify || {};
 Shopify.shop = "hijanah-haul.myshopify.com";
 Shopify.currency = {"active":"MYR","rate":"1.0"};
@@ -121,7 +118,7 @@ Shopify.theme.style = {"id":null,"handle":null};</script>
     window.addEventListener('load', asyncLoad, false);
   }
 })();</script>
-<script id="__st">var __st={"a":16778952758,"offset":28800,"reqid":"9a102c98-c73e-4d98-8b1b-ff9f4aa165ae","pageurl":"hijanahhaul.com\/","u":"7092cc3e6e3a","p":"home"};</script>
+<script id="__st">var __st={"a":16778952758,"offset":28800,"reqid":"9a102c98-c73e-4d98-8b1b-ff9f4aa165ae","pageurl":"ppskhaul.com\/","u":"7092cc3e6e3a","p":"home"};</script>
 <script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
 <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
 window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
@@ -440,8 +437,8 @@ hideBtn[i].style.display = 'none';
 <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js" type="text/javascript"></script>
 <script src="//cdn.shopify.com/s/files/1/0167/7895/2758/t/5/assets/respond.min.js?4962" type="text/javascript"></script>
 <link href="//cdn.shopify.com/s/files/1/0167/7895/2758/t/5/assets/respond-proxy.php" id="respond-proxy" rel="respond-proxy" />
-<link href="//hijanahhaul.com/search?q=693a2131bacfd93d8acb98248c522b94" id="respond-redirect" rel="respond-redirect" />
-<script src="//hijanahhaul.com/search?q=693a2131bacfd93d8acb98248c522b94" type="text/javascript"></script>
+<link href="//ppskhaul.com/search?q=693a2131bacfd93d8acb98248c522b94" id="respond-redirect" rel="respond-redirect" />
+<script src="//ppskhaul.com/search?q=693a2131bacfd93d8acb98248c522b94" type="text/javascript"></script>
 <![endif]-->
 
 
@@ -606,10 +603,10 @@ window.supported_currencies = "MYR USD BND";
         
         <div class="sticky-none">
 <a href="/" class="theme-logo">
-  <img src="//cdn.shopify.com/s/files/1/0167/7895/2758/files/OFFICIAL_LOGO_HEADER_3_e0ade610-42dd-4f22-b844-751ae9466974_225x.jpg?v=1564028211" alt="Hijanah Haul"srcset="//cdn.shopify.com/s/files/1/0167/7895/2758/files/OFFICIAL_LOGO_HEADER_3_e0ade610-42dd-4f22-b844-751ae9466974_225x.jpg?v=1564028211 1x, //cdn.shopify.com/s/files/1/0167/7895/2758/files/OFFICIAL_LOGO_HEADER_3_e0ade610-42dd-4f22-b844-751ae9466974_225x@2x.jpg?v=1564028211 2x">
+  <img src="//cdn.shopify.com/s/files/1/0167/7895/2758/files/OFFICIAL_LOGO_HEADER_3_e0ade610-42dd-4f22-b844-751ae9466974_225x.jpg?v=1564028211" alt="PPSK Haul"srcset="//cdn.shopify.com/s/files/1/0167/7895/2758/files/OFFICIAL_LOGO_HEADER_3_e0ade610-42dd-4f22-b844-751ae9466974_225x.jpg?v=1564028211 1x, //cdn.shopify.com/s/files/1/0167/7895/2758/files/OFFICIAL_LOGO_HEADER_3_e0ade610-42dd-4f22-b844-751ae9466974_225x@2x.jpg?v=1564028211 2x">
 </a></div>
         <div class="sticky-block"><a href="/">
-  <strong>Hijanah Haul</strong>
+  <strong>PPSK Haul</strong>
 </a></div>
         
       </div>
@@ -631,7 +628,7 @@ window.supported_currencies = "MYR USD BND";
           <a class="search-active" href="#"><i class="pe-7s-search"></i></a>
           <div class="search-content">
             
-            <form action="https://hijanahhaul.com/search" method="get" class="input-group search-bar" role="search">
+            <form action="https://ppskhaul.com/search" method="get" class="input-group search-bar" role="search">
                <input type="search" name="q" value="" placeholder="Search our store" class="input-group-field" aria-label="Search our store">
               <button type="submit" class="button-search"><i class="pe-7s-search"></i></button>
             </form>
@@ -904,7 +901,7 @@ window.supported_currencies = "MYR USD BND";
     </button>
   </div>
   <div class="side-logo"><a href="/">
-  <strong>Hijanah Haul</strong>
+  <strong>PPSK Haul</strong>
 </a></div>
   <div id="menu" class="text-left clickable-menu-style">
     
