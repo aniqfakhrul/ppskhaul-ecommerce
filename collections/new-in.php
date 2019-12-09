@@ -1,1455 +1,4 @@
-<!doctype html>
-<!--[if IE 9]> <html class="ie9 no-js supports-no-cookies" lang="en"> <![endif]-->
-<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js supports-no-cookies" lang="en"> <!--<![endif]-->
-
-
-<!-- Mirrored from hijanahhaul.com/products/laura-abaya by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 05 Dec 2019 00:33:33 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
-<head>
-
-  
-  
-  
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.1/jquery.min.js"></script>
-    <script>
-      	$m = $.noConflict(true);
-	 window.pattern = /^(do|sv|ee|fi|fr|gd|gp|gg|hu|is|im|il|kz|ke|kg|la|mo|mk|mh|mq|ms|ma|nl|ne|ng|no|pw|py|pl|pt|kn|st|sc|sg|sk|za|sr|sj|th|to|tm|tc|uz|vu|vn|zm|af|al|as|ao|ai|an|ag|ar|as|bb|by|aq|bm|bq|bv|au|vg|bs|cv|bh|cf|bd|cn|be|co|ba|ci|bw|dk|bn|dm|bi|cd|cm|ec|ca|eg|td|gq|cx|er|cc|et|cr|eu|ga|gh|cy|gi|dj|gu|eu|gt|fk|gn|fo|gw|gf|hm|pf|hn|gm|iq|ge|ie|de|jm|gr|jp|in|ki|id|lr|je|mw|lv|my|ly|mu|li|yt|mv|mx|mc|mn|mz|nr|np|ni|nu|nf|pk|na|ph|oc|pn|om|qa|pg|re|pr|sh|ro|ru|rw|sm|bl|rs|pm|sx|vc|gs|sa|sd|sl|se|si|tj|tz|sb|tt|sa|tn|es|gb|lk|va|ch|zw|sy|tw|tl|tg|tr|um|vi|ug|us|uy|ve|af|ax|dz|ad|am|aw|at|az|bz|bj|bt|bo|br|io|bg|bf|kh|ky|cl|km|cg|ck|hr|cu|cw|cz|fj|tf|gl|gy|ht|hk|ir|it|jo|kw|lb|ls|lt|lu|mg|ml|mt|mr|fm|md|me|mm|na|nc|nz|kp|mp|ps|pa|pe|lc|mf|ws|sn|so|kr|ss|sz|tk|tv|ua|ae|wf|eh|ye|intl)$/;
-      </script>
-
-  
-  
-  <!-- Basic and Helper page needs -->
-  <meta name="google-site-verification" content="CkIv0V-_6uXce-iV_6RGcK6ogaiK5XodB7ONhMl_CCM" />
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="theme-color" content="#3f1208">
-  <link rel="canonical" href="laura-abaya.html"><link rel="shortcut icon" href="http://cdn.shopify.com/s/files/1/0167/7895/2758/files/logo-main_32x32.jpg?v=1563202310" type="image/png" /><!-- Title and description -->
-  
-  <title>
-  Laura Abaya
-  
-  
-  
-  &ndash; Hijanah Haul
-  
-  </title><meta name="description" content="Product Description Material : dull satin &amp;amp; soft lace Design : Loose, A cut Consist of 2 layers ; inner (dull satin), outer (soft lace - from waist to the bottom) 8&#39; inch hidden neck zipper wudhu friendly (hidden sleeve zipper)   Care instruction Machine/Hand wash, cold wash, do not tumble dry or bleach Low to medi"><!-- Helpers -->
-  <!-- /snippets/social-meta-tags.liquid -->
-
-
-  <meta property="og:type" content="product">
-  <meta property="og:title" content="Laura Abaya">
-  
-    <meta property="og:image" content="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5728_grande.jpg?v=1564485149">
-    <meta property="og:image:secure_url" content="https://cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5728_grande.jpg?v=1564485149">
-  
-    <meta property="og:image" content="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5734_grande.jpg?v=1564485149">
-    <meta property="og:image:secure_url" content="https://cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5734_grande.jpg?v=1564485149">
-  
-    <meta property="og:image" content="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5732_grande.jpg?v=1564485149">
-    <meta property="og:image:secure_url" content="https://cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5732_grande.jpg?v=1564485149">
-  
-  <meta property="og:description" content="Product Description
-
-Material : dull satin &amp;amp; soft lace
-Design : Loose, A cut
-Consist of 2 layers ; inner (dull satin), outer (soft lace - from waist to the bottom)
-8&#39; inch hidden neck zipper
-wudhu friendly (hidden sleeve zipper)
-
- 
-
-Care instruction
-
-Machine/Hand wash, cold wash, do not tumble dry or bleach
-Low to medium heat iron 
-
- 
-Note:
-
-We would recommend delicate wash if you&#39;re using a washing machine. Hand wash is highly recommended to maintain fabric quality.
-The colours in the pictures may be slightly different based on lighting and individual screen resolution settings on each device.
-">
-  <meta property="og:price:amount" content="147.00">
-  <meta property="og:price:currency" content="MYR">
-
-<meta property="og:url" content="https://hijanahhaul.com/products/laura-abaya">
-<meta property="og:site_name" content="Hijanah Haul">
-
-
-
-
-  <meta name="twitter:card" content="summary">
-
-
-  <meta name="twitter:title" content="Laura Abaya">
-  <meta name="twitter:description" content="Product Description
-
-Material : dull satin &amp;amp; soft lace
-Design : Loose, A cut
-Consist of 2 layers ; inner (dull satin), outer (soft lace - from waist to the bottom)
-8&#39; inch hidden neck zipper
-wudhu">
-  <meta name="twitter:image" content="https://cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5732_grande.jpg?v=1564485149">
-  <meta name="twitter:image:width" content="600">
-  <meta name="twitter:image:height" content="600">
-
-
-
-  <!-- CSS -->
-  <link href="http://cdn.shopify.com/s/files/1/0167/7895/2758/t/5/assets/timber.scss.css?4962" rel="stylesheet" type="text/css" media="all" />
-
-
-<link href="http://cdn.shopify.com/s/files/1/0167/7895/2758/t/5/assets/bootstrap.min.css?4962" rel="stylesheet" type="text/css" media="all" />
-<link href="http://cdn.shopify.com/s/files/1/0167/7895/2758/t/5/assets/icons.min.css?4962" rel="stylesheet" type="text/css" media="all" />
-<link href="http://cdn.shopify.com/s/files/1/0167/7895/2758/t/5/assets/plugins.css?4962" rel="stylesheet" type="text/css" media="all" />
-
-
-
-<!-- Put all third-party CSS files in the vendor.css file and minify the files -->
-<link href="http://cdn.shopify.com/s/files/1/0167/7895/2758/t/5/assets/vendor.css?4962" rel="stylesheet" type="text/css" media="all" />
-
-<!-- Link your style.css and responsive.css files below -->
-<link href="http://cdn.shopify.com/s/files/1/0167/7895/2758/t/5/assets/style.css?4962" rel="stylesheet" type="text/css" media="all" />
-<link href="http://cdn.shopify.com/s/files/1/0167/7895/2758/t/5/assets/responsive.css?4962" rel="stylesheet" type="text/css" media="all" />
-
-<!-- Theme Default CSS -->
-<link href="http://cdn.shopify.com/s/files/1/0167/7895/2758/t/5/assets/theme-default.css?4962" rel="stylesheet" type="text/css" media="all" />
-<!-- Make your theme CSS calls here -->
-<link href="http://cdn.shopify.com/s/files/1/0167/7895/2758/t/5/assets/theme-custom.css?4962" rel="stylesheet" type="text/css" media="all" />
-
-
-<!-- Make your theme RTL CSS calls here -->
-<link href="http://cdn.shopify.com/s/files/1/0167/7895/2758/t/5/assets/theme-responsive.css?4962" rel="stylesheet" type="text/css" media="all" />
-
-<!-- Make all your dynamic CSS and Color calls here -->
-<link href="http://cdn.shopify.com/s/files/1/0167/7895/2758/t/5/assets/skin-and-color.css?4962" rel="stylesheet" type="text/css" media="all" />
-<!-- Header hook for plugins -->
-   
-  <script> var prices = [], productImages = [], bestSellersHTML = "", newestProductsHTML = "<ul class=\"mm-product-list mm-newest-products\">      </ul>"; /* set product prices */  /* get the collection images */ var collectionImages = []; </script>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css">
-
-<link href="http://cdn.shopify.com/s/files/1/0167/7895/2758/t/5/assets/buddha-megamenu.css?4962" rel="stylesheet" type="text/css" media="all" />
-<script> var linkLists = {};  linkLists["main-menu"] = {}; linkLists["main-menu"].title = "Main menu"; linkLists["main-menu"].items = [];  linkLists["main-menu"].items[linkLists["main-menu"].items.length] = "/collections/new-in";  linkLists["main-menu"].items[linkLists["main-menu"].items.length] = "/collections/frontpage";  linkLists["main-menu"].items[linkLists["main-menu"].items.length] = "/collections/sport-wear";  linkLists["main-menu"].items[linkLists["main-menu"].items.length] = "/collections/clearance";  linkLists["main-menu"].items[linkLists["main-menu"].items.length] = "/pages/dropship";  linkLists["main-menu"].items[linkLists["main-menu"].items.length] = "/blogs/news";  linkLists["main-menu"].items[linkLists["main-menu"].items.length] = "../index.html";   linkLists["footer"] = {}; linkLists["footer"].title = "About Us"; linkLists["footer"].items = [];  linkLists["footer"].items[linkLists["footer"].items.length] = "/pages/about-us";  linkLists["footer"].items[linkLists["footer"].items.length] = "/pages/faqs";  linkLists["footer"].items[linkLists["footer"].items.length] = "/pages/terms-conditions";  linkLists["footer"].items[linkLists["footer"].items.length] = "/pages/privacy-policy";   linkLists["useful-links"] = {}; linkLists["useful-links"].title = "Shopping Info"; linkLists["useful-links"].items = [];  linkLists["useful-links"].items[linkLists["useful-links"].items.length] = "/pages/how-to-start-shopping";  linkLists["useful-links"].items[linkLists["useful-links"].items.length] = "/pages/payment-option";  linkLists["useful-links"].items[linkLists["useful-links"].items.length] = "/pages/return-and-exchange";  linkLists["useful-links"].items[linkLists["useful-links"].items.length] = "/pages/sizing-chart";  linkLists["useful-links"].items[linkLists["useful-links"].items.length] = "/pages/sizing-policy";   linkLists["follow-us"] = {}; linkLists["follow-us"].title = "Follow Us"; linkLists["follow-us"].items = [];  linkLists["follow-us"].items[linkLists["follow-us"].items.length] = "https://www.instagram.com/hijanahhaul/";  linkLists["follow-us"].items[linkLists["follow-us"].items.length] = "https://www.facebook.com/hijanahhaul/";   linkLists["164366745654-child-b813b60a81d157af1a628d70ad2a0078-legacy-abaya"] = {}; linkLists["164366745654-child-b813b60a81d157af1a628d70ad2a0078-legacy-abaya"].title = "ABAYA"; linkLists["164366745654-child-b813b60a81d157af1a628d70ad2a0078-legacy-abaya"].items = [];  linkLists["164366745654-child-b813b60a81d157af1a628d70ad2a0078-legacy-abaya"].items[linkLists["164366745654-child-b813b60a81d157af1a628d70ad2a0078-legacy-abaya"].items.length] = "/products/laudya-abaya";  linkLists["164366745654-child-b813b60a81d157af1a628d70ad2a0078-legacy-abaya"].items[linkLists["164366745654-child-b813b60a81d157af1a628d70ad2a0078-legacy-abaya"].items.length] = "/products/kareena-abaya";  linkLists["164366745654-child-b813b60a81d157af1a628d70ad2a0078-legacy-abaya"].items[linkLists["164366745654-child-b813b60a81d157af1a628d70ad2a0078-legacy-abaya"].items.length] = "/products/carmelina-abaya";  linkLists["164366745654-child-b813b60a81d157af1a628d70ad2a0078-legacy-abaya"].items[linkLists["164366745654-child-b813b60a81d157af1a628d70ad2a0078-legacy-abaya"].items.length] = "/products/calice-abaya";  linkLists["164366745654-child-b813b60a81d157af1a628d70ad2a0078-legacy-abaya"].items[linkLists["164366745654-child-b813b60a81d157af1a628d70ad2a0078-legacy-abaya"].items.length] = "/products/fella-abaya";  linkLists["164366745654-child-b813b60a81d157af1a628d70ad2a0078-legacy-abaya"].items[linkLists["164366745654-child-b813b60a81d157af1a628d70ad2a0078-legacy-abaya"].items.length] = "/products/laura-abaya";   linkLists["customer-services"] = {}; linkLists["customer-services"].title = "Customer Services"; linkLists["customer-services"].items = [];  linkLists["customer-services"].items[linkLists["customer-services"].items.length] = "/search";  linkLists["customer-services"].items[linkLists["customer-services"].items.length] = "/search";  linkLists["customer-services"].items[linkLists["customer-services"].items.length] = "/pages/track-your-order";   linkLists["product-page"] = {}; linkLists["product-page"].title = "Product Page"; linkLists["product-page"].items = [];  linkLists["product-page"].items[linkLists["product-page"].items.length] = "/pages/sizing-policy";  linkLists["product-page"].items[linkLists["product-page"].items.length] = "/pages/sizing-chart";   linkLists["sidebar-menu"] = {}; linkLists["sidebar-menu"].title = "Sidebar Menu"; linkLists["sidebar-menu"].items = [];  linkLists["sidebar-menu"].items[linkLists["sidebar-menu"].items.length] = "/collections";  linkLists["sidebar-menu"].items[linkLists["sidebar-menu"].items.length] = "/collections/frontpage";   linkLists["261706776689-child-444b0844365717273c29d5dae779a658-legacy-about"] = {}; linkLists["261706776689-child-444b0844365717273c29d5dae779a658-legacy-about"].title = "ABOUT"; linkLists["261706776689-child-444b0844365717273c29d5dae779a658-legacy-about"].items = [];  linkLists["261706776689-child-444b0844365717273c29d5dae779a658-legacy-about"].items[linkLists["261706776689-child-444b0844365717273c29d5dae779a658-legacy-about"].items.length] = "/pages/about-us";  linkLists["261706776689-child-444b0844365717273c29d5dae779a658-legacy-about"].items[linkLists["261706776689-child-444b0844365717273c29d5dae779a658-legacy-about"].items.length] = "/pages/faqs";  linkLists["261706776689-child-444b0844365717273c29d5dae779a658-legacy-about"].items[linkLists["261706776689-child-444b0844365717273c29d5dae779a658-legacy-about"].items.length] = "/pages/terms-conditions";  linkLists["261706776689-child-444b0844365717273c29d5dae779a658-legacy-about"].items[linkLists["261706776689-child-444b0844365717273c29d5dae779a658-legacy-about"].items.length] = "/pages/privacy-policy";   </script>
-<script src="http://cdn.shopify.com/s/files/1/0167/7895/2758/t/5/assets/buddha-megamenu.js?4962" async data-no-instant></script>
-  <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/16778952758/digital_wallets/dialog">
-<meta name="shopify-checkout-api-token" content="c04bcfd20d45cc617f56a0b659238b46">
-<meta id="in-context-paypal-metadata" data-shop-id="16778952758" data-venmo-supported="false" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="MYR">
-<link rel="alternate" type="application/json+oembed" href="laura-abaya.oembed">
-<style media="all">.additional-checkout-button{border:0 !important;border-radius:5px !important;display:inline-block;margin:0 0 10px;padding:0 24px !important;max-width:100%;min-width:150px !important;line-height:44px !important;text-align:center !important}.additional-checkout-button+.additional-checkout-button{margin-left:10px}.additional-checkout-button:last-child{margin-bottom:0}.additional-checkout-button span{font-size:14px !important}.additional-checkout-button img{display:inline-block !important;height:1.3em !important;margin:0 !important;vertical-align:middle !important;width:auto !important}@media (max-width: 500px){.additional-checkout-button{display:block;margin-left:0 !important;padding:0 10px !important;width:100%}}.additional-checkout-button--apple-pay{background-color:#000 !important;color:#fff !important;display:none;font-family:-apple-system, Helvetica Neue, sans-serif !important;min-width:150px !important;white-space:nowrap !important}.additional-checkout-button--apple-pay:hover,.additional-checkout-button--apple-pay:active,.additional-checkout-button--apple-pay:visited{color:#fff !important;text-decoration:none !important}.additional-checkout-button--apple-pay .additional-checkout-button__logo{background:-webkit-named-image(apple-pay-logo-white) center center no-repeat !important;background-size:auto 100% !important;display:inline-block !important;vertical-align:middle !important;width:3em !important;height:1.3em !important}@media (max-width: 500px){.additional-checkout-button--apple-pay{display:none}}.additional-checkout-button--google-pay{line-height:0 !important;padding:0 !important;border-radius:unset !important;width:80px !important}@media (max-width: 500px){.additional-checkout-button--google-pay{width:100% !important}}.gpay-iframe{height:44px !important;width:100%  !important;cursor:pointer;vertical-align:middle !important}.additional-checkout-button--paypal-express{background-color:#ffc439 !important}.additional-checkout-button--paypal,.additional-checkout-button--venmo{vertical-align:top;line-height:0 !important;padding:0 !important}.additional-checkout-button--amazon{background-color:#fad676 !important;position:relative !important}.additional-checkout-button--amazon .additional-checkout-button__logo{-webkit-transform:translateY(4px) !important;transform:translateY(4px) !important}.additional-checkout-button--amazon .alt-payment-list-amazon-button-image{max-height:none !important;opacity:0 !important;position:absolute !important;top:0 !important;left:0 !important;width:100% !important;height:100% !important}.additional-checkout-button-visually-hidden{border:0 !important;clip:rect(0, 0, 0, 0) !important;clip:rect(0 0 0 0) !important;width:1px !important;height:1px !important;margin:-2px !important;overflow:hidden !important;padding:0 !important;position:absolute !important}
-</style>
-<script id="shopify-features" type="application/json">{"accessToken":"c04bcfd20d45cc617f56a0b659238b46","betas":[],"domain":"hijanahhaul.com","predictiveSearch":true,"shopId":16778952758,"smart_payment_buttons_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js"}</script>
-<script>var Shopify = Shopify || {};
-Shopify.shop = "hijanah-haul.myshopify.com";
-Shopify.currency = {"active":"MYR","rate":"1.0"};
-Shopify.theme = {"name":"Hauls Originals","id":49828233270,"theme_store_id":null,"role":"main"};
-Shopify.theme.handle = "null";
-Shopify.theme.style = {"id":null,"handle":null};</script>
-<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
-<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadJS=n(),t.detectLoadJS=n()}(window);</script>
-<script>(function() {
-  function asyncLoad() {
-    var urls = ["https:\/\/s3.amazonaws.com\/lastsecondcoupon\/js\/eventpromotionbar.js?shop=hijanah-haul.myshopify.com","laura-abaya.html\/\/api.optmstr.com\/shopify\/embed\/?shop=hijanah-haul.myshopify.com","laura-abaya.html\/\/apps.omegatheme.com\/live-sale-notification\/liveSale.js?shop=hijanah-haul.myshopify.com","laura-abaya.html\/\/chimpstatic.com\/mcjs-connected\/js\/users\/da01fac3e21e7754a9a28a69a\/40bc8518fe68771b8112320bb.js?shop=hijanah-haul.myshopify.com","laura-abaya.html\/\/whatshelp.io\/shopify\/widget\/16778952758.js?v=1568002632\u0026shop=hijanah-haul.myshopify.com","laura-abaya.html\/\/cdn.shopify.com\/s\/files\/1\/0167\/7895\/2758\/t\/5\/assets\/mm-init.js?4645\u0026shop=hijanah-haul.myshopify.com","laura-abaya.html\/\/salesreps.io\/shopify.js?key=5dbe81528406843cd896fbcd\u0026shop=hijanah-haul.myshopify.com","https:\/\/cdn.shopify.com\/s\/files\/1\/2325\/8929\/t\/3\/assets\/ultimate-countdown-timer___app.js?ver=20191128-02\u0026shop=hijanah-haul.myshopify.com"];
-    for (var i = 0; i < urls.length; i++) {
-      var s = document.createElement('script');
-      s.type = 'text/javascript';
-      s.async = true;
-      s.src = urls[i];
-      var x = document.getElementsByTagName('script')[0];
-      x.parentNode.insertBefore(s, x);
-    }
-  };
-  if(window.attachEvent) {
-    window.attachEvent('onload', asyncLoad);
-  } else {
-    window.addEventListener('load', asyncLoad, false);
-  }
-})();</script>
-<script id="__st">var __st={"a":16778952758,"offset":28800,"reqid":"2a718c63-464b-4611-adce-8bcbf718cfdd","pageurl":"hijanahhaul.com\/products\/laura-abaya","u":"cec0e73c5cf9","p":"product","rtyp":"product","rid":2230154133558};</script>
-<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
-<script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
-window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
-window.ShopifyAnalytics.meta.currency = 'MYR';
-var meta = {"product":{"id":2230154133558,"vendor":"Hijanah Haul","type":"","variants":[{"id":20934653280310,"price":14700,"name":"Laura Abaya - S\u0026M","public_title":"S\u0026M","sku":""},{"id":20934653313078,"price":14700,"name":"Laura Abaya - L","public_title":"L","sku":""}]},"page":{"pageType":"product","resourceType":"product","resourceId":2230154133558}};
-for (var attr in meta) {
-  window.ShopifyAnalytics.meta[attr] = meta[attr];
-}</script>
-<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
-  (function(fn){var d=document;(d.readyState=='loading')?d.addEventListener('DOMContentLoaded',fn):fn();})(function(){
-
-document.getElementById("paypal-express-checkout-btn").style.visibility = "hidden";
-
-var hideBtn = document.getElementsByClassName('alt-payment-list-container'), i;
-for (var i = 0; i < hideBtn.length; i ++) {
-hideBtn[i].style.display = 'none';
-}
-
-});
-};
-</script>
-<script class="analytics">(window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
-
-
-(function () {
-  var customDocumentWrite = function(content) {
-    var jquery = null;
-
-    if (window.jQuery) {
-      jquery = window.jQuery;
-    } else if (window.Checkout && window.Checkout.$) {
-      jquery = window.Checkout.$;
-    }
-
-    if (jquery) {
-      jquery('body').append(content);
-    }
-  };
-
-  var isDuplicatedThankYouPageView = function() {
-    return document.cookie.indexOf('loggedConversion=' + window.location.pathname) !== -1;
-  }
-
-  var setCookieIfThankYouPage = function() {
-    if (window.location.pathname.indexOf('/checkouts') !== -1 &&
-        window.location.pathname.indexOf('/thank_you') !== -1) {
-
-      var twoMonthsFromNow = new Date(Date.now());
-      twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
-
-      document.cookie = 'loggedConversion=' + window.location.pathname + '; expires=' + twoMonthsFromNow;
-    }
-  }
-
-  var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
-  if (trekkie.integrations) {
-    return;
-  }
-  trekkie.methods = [
-    'identify',
-    'page',
-    'ready',
-    'track',
-    'trackForm',
-    'trackLink'
-  ];
-  trekkie.factory = function(method) {
-    return function() {
-      var args = Array.prototype.slice.call(arguments);
-      args.unshift(method);
-      trekkie.push(args);
-      return trekkie;
-    };
-  };
-  for (var i = 0; i < trekkie.methods.length; i++) {
-    var key = trekkie.methods[i];
-    trekkie[key] = trekkie.factory(key);
-  }
-  trekkie.load = function(config) {
-    trekkie.config = config;
-    var script = document.createElement('script');
-    script.type = 'text/javascript';
-    script.onerror = function(e) {
-      (new Image()).src = 'http://v.shopify.com/internal_errors/track?error=trekkie_load';
-    };
-    script.async = true;
-    script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2019.11.04.1';
-    var first = document.getElementsByTagName('script')[0];
-    first.parentNode.insertBefore(script, first);
-  };
-  trekkie.load(
-    {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":16778952758,"isMerchantRequest":null,"themeId":49828233270,"themeCityHash":"18041303460137187491","contentLanguage":"en","currency":"MYR"}},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":1},"Google Analytics":{"trackingId":"UA-145005730-1","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true},"Session Attribution":{}}
-  );
-
-  var loaded = false;
-  trekkie.ready(function() {
-    if (loaded) return;
-    loaded = true;
-
-    window.ShopifyAnalytics.lib = window.trekkie;
-    
-      ga('require', 'linker');
-      function addListener(element, type, callback) {
-        if (element.addEventListener) {
-          element.addEventListener(type, callback);
-        }
-        else if (element.attachEvent) {
-          element.attachEvent('on' + type, callback);
-        }
-      }
-      function decorate(event) {
-        event = event || window.event;
-        var target = event.target || event.srcElement;
-        if (target && (target.getAttribute('action') || target.getAttribute('href'))) {
-          ga(function (tracker) {
-            var linkerParam = tracker.get('linkerParam');
-            document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
-          });
-        }
-      }
-      addListener(window, 'load', function(){
-        for (var i=0; i < document.forms.length; i++) {
-          var action = document.forms[i].getAttribute('action');
-          if(action && action.indexOf('/cart') >= 0) {
-            addListener(document.forms[i], 'submit', decorate);
-          }
-        }
-        for (var i=0; i < document.links.length; i++) {
-          var href = document.links[i].getAttribute('href');
-          if(href && href.indexOf('/checkout') >= 0) {
-            addListener(document.links[i], 'click', decorate);
-          }
-        }
-      });
-    
-
-    var originalDocumentWrite = document.write;
-    document.write = customDocumentWrite;
-    try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
-    document.write = originalDocumentWrite;
-      (function () {
-        if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
-          return;
-        }
-        window.BOOMR = window.BOOMR || {};
-        window.BOOMR.snippetStart = new Date().getTime();
-        window.BOOMR.snippetExecuted = true;
-        window.BOOMR.snippetVersion = 12;
-        window.BOOMR.shopId = 16778952758;
-        window.BOOMR.themeId = 49828233270;
-        window.BOOMR.url =
-          "https://cdn.shopify.com/shopifycloud/boomerang/boomerang-latest.min.js";
-        var where = document.currentScript || document.getElementsByTagName("script")[0];
-        if (!where || !where.parentNode){
-          return;
-        }
-        var promoted = false;
-        var LOADER_TIMEOUT = 3000;
-        function promote() {
-          if (promoted) {
-            return;
-          }
-          var script = document.createElement("script");
-          script.id = "boomr-scr-as";
-          script.src = window.BOOMR.url;
-          script.async = true;
-          where.parentNode.appendChild(script);
-          promoted = true;
-        }
-        function iframeLoader(wasFallback) {
-          promoted = true;
-          var dom, bootstrap, iframe, iframeStyle;
-          var doc = document;
-          var win = window;
-          window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
-          bootstrap = function(parent, scriptId) {
-            var script = doc.createElement("script");
-            script.id = scriptId || "boomr-if-as";
-            script.src = window.BOOMR.url;
-            BOOMR_lstart = new Date().getTime();
-            parent = parent || doc.body;
-            parent.appendChild(script);
-          };
-          if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
-            window.BOOMR.snippetMethod = "s";
-            bootstrap(where.parentNode, "boomr-async");
-            return;
-          }
-          iframe = document.createElement("IFRAME");
-          iframe.src = "about:blank";
-          iframe.title = "";
-          iframe.role = "presentation";
-          iframe.loading = "eager";
-          iframeStyle = (iframe.frameElement || iframe).style;
-          iframeStyle.width = 0;
-          iframeStyle.height = 0;
-          iframeStyle.border = 0;
-          iframeStyle.display = "none";
-          where.parentNode.appendChild(iframe);
-          try {
-            win = iframe.contentWindow;
-            doc = win.document.open();
-          } catch (e) {
-            dom = document.domain;
-            iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
-            win = iframe.contentWindow;
-            doc = win.document.open();
-          }
-          if (dom) {
-            doc._boomrl = function() {
-              this.domain = dom;
-              bootstrap();
-            };
-            doc.write("<body onload='document._boomrl();'>");
-          } else {
-            win._boomrl = function() {
-              bootstrap();
-            };
-            if (win.addEventListener) {
-              win.addEventListener("load", win._boomrl, false);
-            } else if (win.attachEvent) {
-              win.attachEvent("onload", win._boomrl);
-            }
-          }
-          doc.close();
-        }
-        var link = document.createElement("link");
-        if (link.relList &&
-          typeof link.relList.supports === "function" &&
-          link.relList.supports("preload") &&
-          ("as" in link)) {
-          window.BOOMR.snippetMethod = "p";
-          link.href = window.BOOMR.url;
-          link.rel = "preload";
-          link.as = "script";
-          link.addEventListener("load", promote);
-          link.addEventListener("error", function() {
-            iframeLoader(true);
-          });
-          setTimeout(function() {
-            if (!promoted) {
-              iframeLoader(true);
-            }
-          }, LOADER_TIMEOUT);
-          BOOMR_lstart = new Date().getTime();
-          where.parentNode.appendChild(link);
-        } else {
-          iframeLoader(false);
-        }
-        function boomerangSaveLoadTime(e) {
-          window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
-        }
-        if (window.addEventListener) {
-          window.addEventListener("load", boomerangSaveLoadTime, false);
-        } else if (window.attachEvent) {
-          window.attachEvent("onload", boomerangSaveLoadTime);
-        }
-        if (document.addEventListener) {
-          document.addEventListener("onBoomerangLoaded", function(e) {
-            e.detail.BOOMR.init({});
-            e.detail.BOOMR.t_end = new Date().getTime();
-          });
-        } else if (document.attachEvent) {
-          document.attachEvent("onpropertychange", function(e) {
-            if (!e) e=event;
-            if (e.propertyName === "onBoomerangLoaded") {
-              e.detail.BOOMR.init({});
-              e.detail.BOOMR.t_end = new Date().getTime();
-            }
-          });
-        }
-      })();
-    
-
-    if (!isDuplicatedThankYouPageView()) {
-      setCookieIfThankYouPage();
-      
-        window.ShopifyAnalytics.lib.page(
-          null,
-          {"pageType":"product","resourceType":"product","resourceId":2230154133558}
-        );
-      
-      
-        window.ShopifyAnalytics.lib.track(
-          "Viewed Product",
-          {"currency":"MYR","variantId":20934653280310,"productId":2230154133558,"productGid":"gid:\/\/shopify\/Product\/2230154133558","name":"Laura Abaya - S\u0026M","price":"147.00","sku":"","brand":"Hijanah Haul","variant":"S\u0026M","category":"","nonInteraction":true}
-        );
-      
-
-        window.ShopifyAnalytics.lib.track(
-          "monorail:\/\/trekkie_storefront_viewed_product\/1.0",
-          {"currency":"MYR","variantId":20934653280310,"productId":2230154133558,"productGid":"gid:\/\/shopify\/Product\/2230154133558","name":"Laura Abaya - S\u0026M","price":"147.00","sku":"","brand":"Hijanah Haul","variant":"S\u0026M","category":"","nonInteraction":true}
-        );
-      
-    }
-  });
-
-  
-      var eventsListenerScript = document.createElement('script');
-      eventsListenerScript.async = true;
-      eventsListenerScript.src = "http://cdn.shopify.com/s/assets/shop_events_listener-594cfaf735d2b159533f8abf94d25929f75d05c6cf4bafcacb1ec8a35017059a.js";
-      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
-    
-})();</script>
-<script integrity="sha256-/LWbHGRT9fhJCeTFZxJJr7GGGJRbAOrw4xIjESlEc8I=" crossorigin="anonymous" data-source-attribution="shopify.loadjs" defer="defer" src="http://cdn.shopify.com/s/assets/storefront/load_js-fcb59b1c6453f5f84909e4c5671249afb18618945b00eaf0e3122311294473c2.js"></script>
-<script integrity="sha256-qzPTa4Ven/Yc2yyXr9BKZWCTXSrPTCnbGdWsxA7YCw0=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="http://cdn.shopify.com/s/assets/storefront/features-ab33d36b855e9ff61cdb2c97afd04a6560935d2acf4c29db19d5acc40ed80b0d.js" crossorigin="anonymous"></script>
-<script defer="defer" src="http://cdn.shopify.com/s/assets/themes_support/ga_urchin_forms-99e991855b3d8ddc69e625c68ab0579dd9927b611c2ec4943d396c72e3af0849.js"></script>
-<link rel="stylesheet" media="screen" href="http://cdn.shopify.com/s/files/1/0167/7895/2758/t/5/compiled_assets/styles.css?4962">
-<script id="sections-script" data-sections="single-product-tab,header" defer="defer" src="http://cdn.shopify.com/s/files/1/0167/7895/2758/t/5/compiled_assets/scripts.js?4962"></script>
-
-<style id="shopify-dynamic-checkout-cart">@media screen and (min-width: 750px) {
-  #dynamic-checkout-cart {
-    min-height: 50px;
-  }
-}
-
-@media screen and (max-width: 750px) {
-  #dynamic-checkout-cart {
-    min-height: 60px;
-  }
-}
-</style><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
-  <!-- /snippets/oldIE-js.liquid -->
-
-
-<!--[if lt IE 9]>
-<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js" type="text/javascript"></script>
-<script src="//cdn.shopify.com/s/files/1/0167/7895/2758/t/5/assets/respond.min.js?4962" type="text/javascript"></script>
-<link href="//cdn.shopify.com/s/files/1/0167/7895/2758/t/5/assets/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
-<link href="//hijanahhaul.com/search?q=693a2131bacfd93d8acb98248c522b94" id="respond-redirect" rel="respond-redirect" />
-<script src="//hijanahhaul.com/search?q=693a2131bacfd93d8acb98248c522b94" type="text/javascript"></script>
-<![endif]-->
-
-
-  <!-- JS -->
-<!-- Your update file include here -->
-<script src="http://cdn.shopify.com/s/files/1/0167/7895/2758/t/5/assets/modernizr-2.8.3.min.js?4962"></script>
-<script src="http://cdn.shopify.com/s/files/1/0167/7895/2758/t/5/assets/jquery-1.12.4.min.js?4962"></script>
-
-<script src="http://cdn.shopify.com/s/files/1/0167/7895/2758/t/5/assets/popper.min.js?4962"></script>
-<script src="http://cdn.shopify.com/s/files/1/0167/7895/2758/t/5/assets/bootstrap.min.js?4962"></script>
-<script src="http://cdn.shopify.com/s/files/1/0167/7895/2758/t/5/assets/plugins.js?4962"></script>
-
-
-<!-- Put all third-party JS files in the vendor.css file and minify the files -->
-<script src="http://cdn.shopify.com/s/files/1/0167/7895/2758/t/5/assets/vendor.js?4962"></script>
-
-
-<!-- Ajax Cart js -->
-<script src="http://cdn.shopify.com/s/assets/themes_support/option_selection-fe6b72c2bbdd3369ac0bfefe8648e3c889efca213baefd4cfb0dd9363563831f.js"></script>
-<script src="http://cdn.shopify.com/s/assets/themes_support/api.jquery-e94e010e92e659b566dbc436fdfe5242764380e00398907a14955ba301a4749f.js"></script>
-<script src="http://cdn.shopify.com/s/files/1/0167/7895/2758/t/5/assets/cart.api.js?4962"></script>
-
-<!-- Your main.js file upload this file -->
-<script src="http://cdn.shopify.com/s/files/1/0167/7895/2758/t/5/assets/theme.js?4962"></script>
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-  <link href="http://cdn.shopify.com/s/files/1/0167/7895/2758/t/5/assets/custom-css-shopify.css?4962" rel="stylesheet" type="text/css" media="all" />
-
-<script>
-window.mlvedaShopCurrency = "MYR";
-window.shopCurrency = "MYR";
-window.supported_currencies = "MYR USD BND";
-</script>
-  	
-		<script>
-		  $m("<style type='text/css'>.percent-count,.sale-title,span.money{ display: none; }</style>").appendTo("head");
-          
-          
-            $m("<style type='text/css'>button[name='add']{visibility : hidden;}</style>").appendTo("head");
-          
-          
-		</script>
-	
-  
-</head>
-
-<!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com -->
-<script type="text/javascript" src="https://a.opmnstr.com/app/js/api.min.js" data-account="69192" data-user="61429" async></script>
-<!-- / https://optinmonster.com -->
-
-<body id="laura-abaya" class="template-product" >
-  <style>.buddha-hidden-wireframe{display:none !important}</style><ul class="buddha-hidden-wireframe"><li class="buddha-menu-item" ><a data-href="/collections/new-in" href="../collections/new-in.html" aria-label="NEW ARRIVAL" data-no-instant="" onclick="mmGoToPage(this, event); return false;" >NEW ARRIVAL</a></li><li class="buddha-menu-item" ><a data-href="/pages/hijab-1" href="../pages/hijab-1.html" aria-label="HIJAB" data-no-instant="" onclick="mmGoToPage(this, event); return false;" >HIJAB</a></li><li class="buddha-menu-item" ><a data-href="no-link" href="javascript:void(0);" aria-label="ABAYA" data-no-instant="" onclick="mmGoToPage(this, event); return false;" >ABAYA&nbsp;<i class="fa fa-angle-down" aria-hidden="true"></i><button class="toggle-menu-btn" style="display:none;" onclick="return toggleSubmenu(this)"><i class="fa fa-plus-circle" aria-hidden="true"></i></button></a><ul class="mm-submenu simple"><li ><div class="mega-menu-item-container" ><div class="mm-list-name" ><span >New In !</span></div><ul class="mm-submenu link-list"><li ><a data-href="/products/sofea-abaya" href="sofea-abaya.html" aria-label="Sofea Abaya" data-no-instant="" onclick="mmGoToPage(this, event); return false;" >Sofea Abaya</a></li><li ><a data-href="/products/aleesa-abaya" href="aleesa-abaya.html" aria-label="Aleesa Abaya" data-no-instant="" onclick="mmGoToPage(this, event); return false;" >Aleesa Abaya</a></li><li ><a data-href="/products/ruby-sport-wear" href="ruby-sport-wear.html" aria-label="Ruby Sport wear" data-no-instant="" onclick="mmGoToPage(this, event); return false;" >Ruby Sport wear</a></li></ul></div></li><li ><div class="mega-menu-item-container" ><div class="mm-list-name" ><span >Printed Series</span></div><ul class="mm-submenu link-list"><li ><a data-href="/products/gina" href="gina.html" aria-label="Gina " data-no-instant="" onclick="mmGoToPage(this, event); return false;" >Gina</a></li><li ><a data-href="/products/nour" href="nour.html" aria-label="Nour" data-no-instant="" onclick="mmGoToPage(this, event); return false;" >Nour</a></li><li ><a data-href="/products/anna" href="anna.html" aria-label="Anna" data-no-instant="" onclick="mmGoToPage(this, event); return false;" >Anna</a></li></ul></div></li><li ><div class="mega-menu-item-container" ><div class="mm-list-name" ><span >Abaya</span></div><ul class="mm-submenu link-list"><li ><a data-href="/products/calice-abaya" href="calice-abaya.html" aria-label="Calice Abaya" data-no-instant="" onclick="mmGoToPage(this, event); return false;" >Calice Abaya</a></li><li ><a data-href="/products/carmelina-abaya" href="carmelina-abaya.html" aria-label="Carmelina Abaya" data-no-instant="" onclick="mmGoToPage(this, event); return false;" >Carmelina Abaya</a></li><li ><a data-href="/products/fella-abaya" href="fella-abaya.html" aria-label="Fella Abaya" data-no-instant="" onclick="mmGoToPage(this, event); return false;" >Fella Abaya</a></li><li ><a data-href="/products/kareena-abaya" href="kareena-abaya.html" aria-label="Kareena Abaya" data-no-instant="" onclick="mmGoToPage(this, event); return false;" >Kareena Abaya</a></li><li ><a data-href="/products/laudya-abaya" href="laudya-abaya.html" aria-label="Laudya Abaya" data-no-instant="" onclick="mmGoToPage(this, event); return false;" >Laudya Abaya</a></li><li ><a data-href="/products/laura-abaya" href="laura-abaya.html" aria-label="Laura Abaya" data-no-instant="" onclick="mmGoToPage(this, event); return false;" >Laura Abaya</a></li></ul></div></li><li ><div class="mega-menu-item-container" ><div class="mm-list-name" ><span >Fast Selling</span></div><ul class="mm-product-list mm-newest-products">      <li> <div class="mm-list-image"> <a data-href="/products/carla-abaya" href="carla-abaya.html"><img src="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/hijanahhaul-studio-shoot-6.11.2019-44225-mh1575082181439_120x.jpg?v=1575084534" /></a> </div> <div class="mm-list-info"> <a class="mm-product-name" data-href="/products/carla-abaya" href="carla-abaya.html">Carla Abaya</a> <div class="mega-menu-prices">   <span class="mega-menu-compare_at_price"><span class="money">RM209.00 MYR</span></span><br/>  <span class="mega-menu-price"><span class="money">RM159.00 MYR</span></span>  </div> </div> </li>  <li> <div class="mm-list-image"> <a data-href="/products/ruby-sport-wear" href="ruby-sport-wear.html"><img src="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/IMG_4425_120x.jpg?v=1573574455" /></a> </div> <div class="mm-list-info"> <a class="mm-product-name" data-href="/products/ruby-sport-wear" href="ruby-sport-wear.html">Ruby Sport wear</a> <div class="mega-menu-prices">   <span class="mega-menu-compare_at_price"><span class="money">RM219.00 MYR</span></span><br/>  <span class="mega-menu-price"><span class="money">RM159.00 MYR</span></span>  </div> </div> </li>  <li> <div class="mm-list-image"> <a data-href="/products/aleesa-abaya" href="aleesa-abaya.html"><img src="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/IMG_2573_120x.jpg?v=1568551959" /></a> </div> <div class="mm-list-info"> <a class="mm-product-name" data-href="/products/aleesa-abaya" href="aleesa-abaya.html">Aleesa Abaya</a> <div class="mega-menu-prices">   <span class="mega-menu-compare_at_price"><span class="money">RM179.00 MYR</span></span><br/>  <span class="mega-menu-price"><span class="money">RM159.00 MYR</span></span>  </div> </div> </li>  <li> <div class="mm-list-image"> <a data-href="/products/sofea-abaya" href="sofea-abaya.html"><img src="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/IMG_2564_120x.jpg?v=1568551600" /></a> </div> <div class="mm-list-info"> <a class="mm-product-name" data-href="/products/sofea-abaya" href="sofea-abaya.html">Sofea Abaya</a> <div class="mega-menu-prices">  <span class="mega-menu-sold_out">Sold out</span>  </div> </div> </li>  </ul></div></li></ul></li><li class="buddha-menu-item" ><a data-href="/collections/sport-wear" href="../collections/sport-wear.html" aria-label="SPORT WEAR" data-no-instant="" onclick="mmGoToPage(this, event); return false;" >SPORT WEAR</a></li><li class="buddha-menu-item" ><a data-href="/collections/all" href="../collections/all.html" aria-label="CLEARANCE" data-no-instant="" onclick="mmGoToPage(this, event); return false;" >CLEARANCE</a></li><li class="buddha-menu-item" ><a data-href="/pages/dropship" href="../pages/dropship.html" aria-label="DROPSHIP" data-no-instant="" onclick="mmGoToPage(this, event); return false;" >DROPSHIP</a></li><li class="buddha-menu-item" ><a data-href="/blogs/news" href="../blogs/news.html" aria-label="BLOG" data-no-instant="" onclick="mmGoToPage(this, event); return false;" >BLOG</a></li><li class="buddha-menu-item" ><a data-href="/" href="../index.html" aria-label="ABOUT US" data-no-instant="" onclick="mmGoToPage(this, event); return false;" >ABOUT US&nbsp;<i class="fa fa-angle-down" aria-hidden="true"></i><button class="toggle-menu-btn" style="display:none;" onclick="return toggleSubmenu(this)"><i class="fa fa-plus-circle" aria-hidden="true"></i></button></a><ul class="mm-submenu tree"><li data-href="/pages/about-us" href="../pages/about-us.html" aria-label="About Us" data-no-instant="" onclick="mmGoToPage(this, event); return false;" ><a data-href="/pages/about-us" href="../pages/about-us.html" aria-label="About Us" data-no-instant="" onclick="mmGoToPage(this, event); return false;" >About Us</a></li><li data-href="/pages/faqs" href="../pages/faqs.html" aria-label="FAQs" data-no-instant="" onclick="mmGoToPage(this, event); return false;" ><a data-href="/pages/faqs" href="../pages/faqs.html" aria-label="FAQs" data-no-instant="" onclick="mmGoToPage(this, event); return false;" >FAQs</a></li><li data-href="/pages/terms-conditions" href="../pages/terms-conditions.html" aria-label="Terms &amp; Conditions" data-no-instant="" onclick="mmGoToPage(this, event); return false;" ><a data-href="/pages/terms-conditions" href="../pages/terms-conditions.html" aria-label="Terms &amp; Conditions" data-no-instant="" onclick="mmGoToPage(this, event); return false;" >Terms & Conditions</a></li><li data-href="/pages/privacy-policy" href="../pages/privacy-policy.html" aria-label="Privacy Policy" data-no-instant="" onclick="mmGoToPage(this, event); return false;" ><a data-href="/pages/privacy-policy" href="../pages/privacy-policy.html" aria-label="Privacy Policy" data-no-instant="" onclick="mmGoToPage(this, event); return false;" >Privacy Policy</a></li></ul></li></ul>
-<div class=""><div id="shopify-section-header" class="shopify-section">
-
-
-<!-- custom added: i remove transparent-bar -->
-
-
-<header class="header-area sticky-bar header-padding-3 header-res-padding clearfix header-hm-7">
-  
-<div class="container-fluid" style="padding-right:0px; padding-left: 0px">
-  <div class="row">
-<!-- put back here -->
-<!--       <div class="col-lg-2 col-md-12 col-12">
-        <div class="language-currency-wrap" style="line-height:54px;">
-          
-          <div class="same-language-currency">
-            <p>Call Us  (+60) 14 6094964</p>
-          </div>
-          
-
-        </div>
-      </div> -->
-    <div class="col-xl-5 col-lg-6 col-md-2 col-sm-2 col-2 mobile-menu-area " style="padding-left:40px">
-      <div class="clickable-menu clickable-mainmenu-active">
-        <a href="#"><i class="pe-7s-menu"></i></a>
-      </div>
-    </div>
-<!--     <div class="col-xl-2 col-lg-2 col-md-4 col-5">
-      <div class="logo text-center logo-hm5">
-        
-        <div class="sticky-none">
-<a href="/" class="theme-logo">
-  <img src="//cdn.shopify.com/s/files/1/0167/7895/2758/files/OFFICIAL_LOGO_HEADER_3_e0ade610-42dd-4f22-b844-751ae9466974_225x.jpg?v=1564028211" alt="Hijanah Haul"srcset="//cdn.shopify.com/s/files/1/0167/7895/2758/files/OFFICIAL_LOGO_HEADER_3_e0ade610-42dd-4f22-b844-751ae9466974_225x.jpg?v=1564028211 1x, //cdn.shopify.com/s/files/1/0167/7895/2758/files/OFFICIAL_LOGO_HEADER_3_e0ade610-42dd-4f22-b844-751ae9466974_225x@2x.jpg?v=1564028211 2x">
-</a></div>
-        <div class="sticky-block"><a href="/">
-  <strong>Hijanah Haul</strong>
-</a></div>
-        
-      </div>
-    </div> -->
-     <div class="col-xl-2 col-lg-2 col-2 float-right d-none d-lg-block">
-    </div>
-     <div class="col-xl-8 col-lg-8 col-md-8 col-sm-8 col-8">
-      <div class="logo text-center">
-<a href="../index.html" class="theme-logo">
-  <img src="http://cdn.shopify.com/s/files/1/0167/7895/2758/files/OFFICIAL_LOGO_HEADER_3_e0ade610-42dd-4f22-b844-751ae9466974_225x.jpg?v=1564028211" alt="Hijanah Haul"srcset="//cdn.shopify.com/s/files/1/0167/7895/2758/files/OFFICIAL_LOGO_HEADER_3_e0ade610-42dd-4f22-b844-751ae9466974_225x.jpg?v=1564028211 1x, //cdn.shopify.com/s/files/1/0167/7895/2758/files/OFFICIAL_LOGO_HEADER_3_e0ade610-42dd-4f22-b844-751ae9466974_225x@2x.jpg?v=1564028211 2x">
-</a></div>
-    </div>
-     <div class="col-xl-2 col-lg-2 col-md-2 col-sm-2 col-2 float-right" style="padding-right:40px;">
-      <div class="header-right-wrap header-right-wrap-white">
-
-
-
-        <div class="same-style header-search">
-          <a class="search-active" href="#"><i class="pe-7s-search"></i></a>
-          <div class="search-content">
-            
-            <form action="https://hijanahhaul.com/search" method="get" class="input-group search-bar" role="search">
-               <input type="search" name="q" value="" placeholder="Search our store" class="input-group-field" aria-label="Search our store">
-              <button type="submit" class="button-search"><i class="pe-7s-search"></i></button>
-            </form>
-          </div> 
-        </div>
-
-<div class="same-style account-satting">
-  <a class="account-satting-active" href="#"><i class="pe-7s-user-female"></i></a>
-  <div class="account-dropdown">
-    <ul>
-       
-       <li><a href="../account/login.html">Login</a></li>
-      
-      
-      
-      
-      
-      
-    </ul>
-  </div>
-</div>
-<!--
-<div class="same-style header-wishlist">
-  <a href="/pages/wishlist"><i class="pe-7s-like"></i></a>
-</div>
--->
-
-
-
-
-
-
-
-
-
-<div class="same-style cart-wrap">
-
-  <button class="icon-cart">
-    <i class="pe-7s-shopbag"></i><span class="count-style bigcounter">0</span>
-  </button>
-
-  <div class="shopping-cart-content cart-empty-title"  style="display:block;">
-    <h3>Your cart is currently empty.</h3>
-  </div>
-
-  <div class="shopping-cart-content single-product-cart"  style="display:none;">
-    <ul class="single-cart-item-loop">
-      
-    </ul>
-
-    <div class="shopping-cart-total">
-      <h4>Total : <span class="shop-total shopping-cart__total"><span class=money>RM0.00 MYR</span></span></h4>
-    </div>
-
-    <div class="shopping-cart-btn btn-hover text-center">
-      <a class="default-btn" href="../cart.html">View Cart</a>
-      <a class="default-btn" href="../cart.html">Checkout</a>
-    </div>
-
-  </div>
-</div>
-
-
-
-
-
-
-
-
-</div>
-    </div>
-    <div class="col-xl-12 col-lg-12 d-none d-lg-block" style="background-color: #e7b545; margin-top:10px;">
-      <div class="main-menu">
-        
-
-
-<nav>
-  <ul>
-    
-    
-    
-    <li><a href="../collections/new-in.html">NEW ARRIVAL</a></li>
-    
-    
-    
-    
-    <li><a href="../collections/frontpage.html">ABAYA<i class="fa fa-angle-down"></i></a>
-      <ul class="">
-        
-        
-        
-        <li class="sub-menu-li"><a href="laudya-abaya.html">Laudya Abaya</a></li>
-          
-        
-        
-        
-        <li class="sub-menu-li"><a href="kareena-abaya.html">Kareena Abaya</a></li>
-          
-        
-        
-        
-        <li class="sub-menu-li"><a href="carmelina-abaya.html">Carmelina Abaya</a></li>
-          
-        
-        
-        
-        <li class="sub-menu-li"><a href="calice-abaya.html">Calice Abaya</a></li>
-          
-        
-        
-        
-        <li class="sub-menu-li"><a href="fella-abaya.html">Fella Abaya</a></li>
-          
-        
-        
-        
-        <li class="sub-menu-li"><a href="laura-abaya.html">Laura Abaya</a></li>
-          
-        
-      </ul>
-    </li>
-    
-    
-    
-    
-    <li><a href="../collections/sport-wear.html">SPORT WEAR</a></li>
-    
-    
-    
-    
-    <li><a href="../collections/clearance.html">CLEARANCE</a></li>
-    
-    
-    
-    
-    <li><a href="../pages/dropship.html">DROPSHIP</a></li>
-    
-    
-    
-    
-    <li><a href="../blogs/news.html">BLOG</a></li>
-    
-    
-    
-    
-    <li><a href="../index.html">ABOUT<i class="fa fa-angle-down"></i></a>
-      <ul class="">
-        
-        
-        
-        <li class="sub-menu-li"><a href="../pages/about-us.html">About Us</a></li>
-          
-        
-        
-        
-        <li class="sub-menu-li"><a href="../pages/faqs.html">FAQs</a></li>
-          
-        
-        
-        
-        <li class="sub-menu-li"><a href="../pages/terms-conditions.html">Terms & Conditions</a></li>
-          
-        
-        
-        
-        <li class="sub-menu-li"><a href="../pages/privacy-policy.html">Privacy Policy</a></li>
-          
-        
-      </ul>
-    </li>
-    
-    
-  </ul>
-</nav>
-
-
-
-
-
-
-
-
-
-
-
-
-<script>	
-  $('.mega-menu-li').parent('ul').addClass('mega-menu');
-  $('.sub-menu-li').parent('ul').addClass('submenu');
-</script>
-
-
-
-
-      </div>
-    </div>
-<!--     <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-2 float-right" style="background-color:red;">
-      <div class="header-right-wrap header-right-wrap-white">
-
-
-
-        <div class="same-style header-search">
-          <a class="search-active" href="#"><i class="pe-7s-search"></i></a>
-          <div class="search-content">
-            
-            <form action="/search" method="get" class="input-group search-bar" role="search">
-               <input type="search" name="q" value="" placeholder="Search our store" class="input-group-field" aria-label="Search our store">
-              <button type="submit" class="button-search"><i class="pe-7s-search"></i></button>
-            </form>
-          </div> 
-        </div>
-
-<div class="same-style account-satting">
-  <a class="account-satting-active" href="#"><i class="pe-7s-user-female"></i></a>
-  <div class="account-dropdown">
-    <ul>
-       
-       <li><a href="/account/login">Login</a></li>
-      
-      
-      
-      
-      
-      
-    </ul>
-  </div>
-</div>
-
-<div class="same-style header-wishlist">
-  <a href="/pages/wishlist"><i class="pe-7s-like"></i></a>
-</div>
-
-
-
-
-
-
-
-
-
-
-<div class="same-style cart-wrap">
-
-  <button class="icon-cart">
-    <i class="pe-7s-shopbag"></i><span class="count-style bigcounter">0</span>
-  </button>
-
-  <div class="shopping-cart-content cart-empty-title"  style="display:block;">
-    <h3>Your cart is currently empty.</h3>
-  </div>
-
-  <div class="shopping-cart-content single-product-cart"  style="display:none;">
-    <ul class="single-cart-item-loop">
-      
-    </ul>
-
-    <div class="shopping-cart-total">
-      <h4>Total : <span class="shop-total shopping-cart__total"><span class=money>RM0.00 MYR</span></span></h4>
-    </div>
-
-    <div class="shopping-cart-btn btn-hover text-center">
-      <a class="default-btn" href="/cart">View Cart</a>
-      <a class="default-btn" href="/checkout">Checkout</a>
-    </div>
-
-  </div>
-</div>
-
-
-
-
-
-
-
-
-</div>
-    </div> -->
-  </div>
-</div>
-</header>
-<!-- <header class="header-area header-in-container clearfix">
-  
-<div class="header-top-area">
-  <div class="container">
-    <div class="header-top-wap">
-      <div class="language-currency-wrap">
-
-
-
-
-<div class="same-language-currency use-style switcher-currency-trigger currency">
-  <a href="#"> <span class="current-currency">MYR</span>  <i class="fa fa-angle-down"></i></a>
-  <div class="lang-car-dropdown">
-    
-    <ul class="switcher-dropdown" id="currencies">
-      
-      
-      
-      
-      <li data-currency="USD" class="currency__item"><a style="cursor: pointer">USD - US Dollar</a></li>
-      
-      
-      
-      
-      <li data-currency="EUR" class="currency__item"><a style="cursor: pointer">EUR - Euro</a></li>
-      
-      
-      
-      
-      <li data-currency="GBP" class="currency__item"><a style="cursor: pointer">GBP - British Pound</a></li>
-      
-      
-      
-      
-      <li data-currency="INR" class="currency__item"><a style="cursor: pointer">INR - Indian Rupee</a></li>
-      
-      
-      
-      
-      <li data-currency="BDT" class="currency__item"><a style="cursor: pointer">BDT - Bangladesh Taka</a></li>
-      
-      
-      
-      
-      <li data-currency="JPY" class="currency__item"><a style="cursor: pointer">JPY - Japan Yen</a></li>
-      
-      
-      
-      
-      <li data-currency="CAD" class="currency__item"><a style="cursor: pointer">CAD - Canada Dollar</a></li>
-      
-      
-      
-      
-      <li data-currency="AUD" class="currency__item"><a style="cursor: pointer">AUD - Australian Dollar</a></li>
-      
-    </ul>
-  </div>
-</div>
-        <div class="same-language-currency">
-          <p>Call Us  (+60) 14 6094964</p>
-        </div>
-        
-      </div>
-      
-    </div>
-  </div>
-</div>
-  <div class="header-bottom sticky-bar header-res-padding">
-    <div class="container">
-  <div class="row">
-    <div class="col-xl-2 col-lg-2 col-md-6 col-4">
-      <div class="logo">
-<a href="/" class="theme-logo">
-  <img src="//cdn.shopify.com/s/files/1/0167/7895/2758/files/OFFICIAL_LOGO_HEADER_3_e0ade610-42dd-4f22-b844-751ae9466974_225x.jpg?v=1564028211" alt="Hijanah Haul"srcset="//cdn.shopify.com/s/files/1/0167/7895/2758/files/OFFICIAL_LOGO_HEADER_3_e0ade610-42dd-4f22-b844-751ae9466974_225x.jpg?v=1564028211 1x, //cdn.shopify.com/s/files/1/0167/7895/2758/files/OFFICIAL_LOGO_HEADER_3_e0ade610-42dd-4f22-b844-751ae9466974_225x@2x.jpg?v=1564028211 2x">
-</a></div>
-    </div>
-    <div class="col-xl-8 col-lg-8 d-none d-lg-block">
-      <div class="main-menu">
-        
-
-
-<nav>
-  <ul>
-    
-    
-    
-    <li><a href="/collections/new-in">NEW ARRIVAL</a></li>
-    
-    
-    
-    
-    <li><a href="/collections/frontpage">ABAYA<i class="fa fa-angle-down"></i></a>
-      <ul class="">
-        
-        
-        
-        <li class="sub-menu-li"><a href="/products/laudya-abaya">Laudya Abaya</a></li>
-          
-        
-        
-        
-        <li class="sub-menu-li"><a href="/products/kareena-abaya">Kareena Abaya</a></li>
-          
-        
-        
-        
-        <li class="sub-menu-li"><a href="/products/carmelina-abaya">Carmelina Abaya</a></li>
-          
-        
-        
-        
-        <li class="sub-menu-li"><a href="/products/calice-abaya">Calice Abaya</a></li>
-          
-        
-        
-        
-        <li class="sub-menu-li"><a href="/products/fella-abaya">Fella Abaya</a></li>
-          
-        
-        
-        
-        <li class="sub-menu-li"><a href="/products/laura-abaya">Laura Abaya</a></li>
-          
-        
-      </ul>
-    </li>
-    
-    
-    
-    
-    <li><a href="/collections/sport-wear">SPORT WEAR</a></li>
-    
-    
-    
-    
-    <li><a href="/collections/clearance">CLEARANCE</a></li>
-    
-    
-    
-    
-    <li><a href="/pages/dropship">DROPSHIP</a></li>
-    
-    
-    
-    
-    <li><a href="/blogs/news">BLOG</a></li>
-    
-    
-    
-    
-    <li><a href="/">ABOUT<i class="fa fa-angle-down"></i></a>
-      <ul class="">
-        
-        
-        
-        <li class="sub-menu-li"><a href="/pages/about-us">About Us</a></li>
-          
-        
-        
-        
-        <li class="sub-menu-li"><a href="/pages/faqs">FAQs</a></li>
-          
-        
-        
-        
-        <li class="sub-menu-li"><a href="/pages/terms-conditions">Terms & Conditions</a></li>
-          
-        
-        
-        
-        <li class="sub-menu-li"><a href="/pages/privacy-policy">Privacy Policy</a></li>
-          
-        
-      </ul>
-    </li>
-    
-    
-  </ul>
-</nav>
-
-
-
-
-
-
-
-
-
-
-
-
-<script>	
-  $('.mega-menu-li').parent('ul').addClass('mega-menu');
-  $('.sub-menu-li').parent('ul').addClass('submenu');
-</script>
-
-
-
-
-      </div>
-    </div>
-    <div class="col-xl-2 col-lg-2 col-md-6 col-8">
-      <div class="header-right-wrap">
-
-
-
-        <div class="same-style header-search">
-          <a class="search-active" href="#"><i class="pe-7s-search"></i></a>
-          <div class="search-content">
-            
-            <form action="/search" method="get" class="input-group search-bar" role="search">
-               <input type="search" name="q" value="" placeholder="Search our store" class="input-group-field" aria-label="Search our store">
-              <button type="submit" class="button-search"><i class="pe-7s-search"></i></button>
-            </form>
-          </div> 
-        </div>
-
-<div class="same-style account-satting">
-  <a class="account-satting-active" href="#"><i class="pe-7s-user-female"></i></a>
-  <div class="account-dropdown">
-    <ul>
-       
-       <li><a href="/account/login">Login</a></li>
-      
-      
-      
-      
-      
-      
-    </ul>
-  </div>
-</div>
-
-<div class="same-style header-wishlist">
-  <a href="/pages/wishlist"><i class="pe-7s-like"></i></a>
-</div>
-
-
-
-
-
-
-
-
-
-
-<div class="same-style cart-wrap">
-
-  <button class="icon-cart">
-    <i class="pe-7s-shopbag"></i><span class="count-style bigcounter">0</span>
-  </button>
-
-  <div class="shopping-cart-content cart-empty-title"  style="display:block;">
-    <h3>Your cart is currently empty.</h3>
-  </div>
-
-  <div class="shopping-cart-content single-product-cart"  style="display:none;">
-    <ul class="single-cart-item-loop">
-      
-    </ul>
-
-    <div class="shopping-cart-total">
-      <h4>Total : <span class="shop-total shopping-cart__total"><span class=money>RM0.00 MYR</span></span></h4>
-    </div>
-
-    <div class="shopping-cart-btn btn-hover text-center">
-      <a class="default-btn" href="/cart">View Cart</a>
-      <a class="default-btn" href="/checkout">Checkout</a>
-    </div>
-
-  </div>
-</div>
-
-
-
-
-
-
-
-
-</div>
-    </div>
-  </div>
-  <div class="mobile-menu-area">
-    
-
-<div class="mobile-menu">
-  <nav id="mobile-menu-active">
-
-    <ul class="menu-overflow">
-
-      
-      
-      
-      <li><a href="/collections/new-in">NEW ARRIVAL</a></li>
-      
-      
-      
-      
-      <li><a href="/collections/frontpage">ABAYA</a>
-        <ul>
-          
-          
-          
-          <li><a href="/products/laudya-abaya">Laudya Abaya</a></li>
-          
-          
-          
-          
-          <li><a href="/products/kareena-abaya">Kareena Abaya</a></li>
-          
-          
-          
-          
-          <li><a href="/products/carmelina-abaya">Carmelina Abaya</a></li>
-          
-          
-          
-          
-          <li><a href="/products/calice-abaya">Calice Abaya</a></li>
-          
-          
-          
-          
-          <li><a href="/products/fella-abaya">Fella Abaya</a></li>
-          
-          
-          
-          
-          <li><a href="/products/laura-abaya">Laura Abaya</a></li>
-          
-          
-        </ul>
-      </li>
-      
-      
-      
-      
-      <li><a href="/collections/sport-wear">SPORT WEAR</a></li>
-      
-      
-      
-      
-      <li><a href="/collections/clearance">CLEARANCE</a></li>
-      
-      
-      
-      
-      <li><a href="/pages/dropship">DROPSHIP</a></li>
-      
-      
-      
-      
-      <li><a href="/blogs/news">BLOG</a></li>
-      
-      
-      
-      
-      <li><a href="/">ABOUT</a>
-        <ul>
-          
-          
-          
-          <li><a href="/pages/about-us">About Us</a></li>
-          
-          
-          
-          
-          <li><a href="/pages/faqs">FAQs</a></li>
-          
-          
-          
-          
-          <li><a href="/pages/terms-conditions">Terms & Conditions</a></li>
-          
-          
-          
-          
-          <li><a href="/pages/privacy-policy">Privacy Policy</a></li>
-          
-          
-        </ul>
-      </li>
-      
-      
-
-    </ul>
-
-  </nav>
-</div>
-
-
-
-
-<script>
-    
-    /* jQuery MeanMenu */
-    $('#mobile-menu-active').meanmenu({
-        meanScreenWidth: "991",
-        meanMenuContainer: ".mobile-menu-area .mobile-menu",
-    });
-    
-  
-  </script>
-  </div>
-</div>
-  </div>
-</header> -->
-
-
-
-
-
-
-
-
-<div class="clickable-mainmenu">
-  <div class="clickable-mainmenu-icon">
-    <button class="clickable-mainmenu-close">
-      <span class="pe-7s-close"></span>
-    </button>
-  </div>
-  <div class="side-logo"><a href="../index.html">
-  <strong>Hijanah Haul</strong>
-</a></div>
-  <div id="menu" class="text-left clickable-menu-style">
-    
-<ul>
-  
-  
-  
-  <li><a href="../collections/new-in.html">NEW ARRIVAL</a></li>
-  
-  
-  
-  
-  <li><a href="../collections/frontpage.html">ABAYA</a>
-    <ul class="">
-      
-      
-      
-      <li><a href="laudya-abaya.html">Laudya Abaya</a></li>
-        
-      
-      
-      
-      <li><a href="kareena-abaya.html">Kareena Abaya</a></li>
-        
-      
-      
-      
-      <li><a href="carmelina-abaya.html">Carmelina Abaya</a></li>
-        
-      
-      
-      
-      <li><a href="calice-abaya.html">Calice Abaya</a></li>
-        
-      
-      
-      
-      <li><a href="fella-abaya.html">Fella Abaya</a></li>
-        
-      
-      
-      
-      <li><a href="laura-abaya.html">Laura Abaya</a></li>
-        
-      
-    </ul>
-  </li>
-  
-  
-  
-  
-  <li><a href="../collections/sport-wear.html">SPORT WEAR</a></li>
-  
-  
-  
-  
-  <li><a href="../collections/clearance.html">CLEARANCE</a></li>
-  
-  
-  
-  
-  <li><a href="../pages/dropship.html">DROPSHIP</a></li>
-  
-  
-  
-  
-  <li><a href="../blogs/news.html">BLOG</a></li>
-  
-  
-  
-  
-  <li><a href="../index.html">ABOUT</a>
-    <ul class="">
-      
-      
-      
-      <li><a href="../pages/about-us.html">About Us</a></li>
-        
-      
-      
-      
-      <li><a href="../pages/faqs.html">FAQs</a></li>
-        
-      
-      
-      
-      <li><a href="../pages/terms-conditions.html">Terms & Conditions</a></li>
-        
-      
-      
-      
-      <li><a href="../pages/privacy-policy.html">Privacy Policy</a></li>
-        
-      
-    </ul>
-  </li>
-  
-  
-</ul>
-
-  </div><div class="side-social">
-    <ul>
-      
-
-<li>
-  <a href="https://instagram.com/hijanahhaul" class="facebook">
-    <i class="fa fa-instagram"></i>
-  </a>
-</li>
-
-
-<li>
-  <a href="https://facebook.com/hijanahhaul" class="dribbble">
-    <i class="fa fa-facebook"></i>
-  </a>
-</li>
-
-
-
-
-    </ul>
-  </div></div>
+<?php include '../header.php' ?>
 
 
 
@@ -1515,9 +64,10 @@ window.supported_currencies = "MYR USD BND";
     <li>
       
 
-      
 
-      <span>Laura Abaya</span>
+      
+      <span>New Arrival</span>
+      
 
       
     </li>
@@ -1543,760 +93,73 @@ window.supported_currencies = "MYR USD BND";
 
           
           <div class="mlvedaform">
-            <div class="mlvedaform">
-<div id="shopify-section-product-template" class="shopify-section"><div class="shop-area" id="section-product-template">
+            
+
+
+
+
+
+<div id="shopify-section-collection-template" class="shopify-section">
+<div class="shop-area" id="section-collection-template">
   <div class="container ">
-    <div class="row "><div class="col-lg-6 col-md-6 col-12">
-        <div class="product-details">
-          <div class="product-details-img">
+    <div class="row flex-row-reverse">
+      <div class="col-lg-9 col-12"><div class="shop-top-bar">
 
-
-            <div class="tab-pane large-img-style">
-
-              <div class="" id="ProductPhoto"><img id="ProductPhotoImg" class="product-zoom product_variant_image" 
-                     data-image-id="" alt="Laura Abaya" 
-                     data-zoom-image="//cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5732_1024x1024.jpg?v=1564485149" 
-                     src="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5732_1024x1024.jpg?v=1564485149">
-              </div>
-<span class="soldout-title pink">Soldout</span>
-
-              <div class="img-popup-wrap">
-                <button class="action-btn btn-zoom-popup product-zoom"><i class="pe-7s-expand1"></i></button>
-              </div>
-              
-
-            </div><div class="shop-details-tab">
-              <div id="ProductThumbs" class="">
-                
-                <a class="product-single__thumbnail shop-details-overly active" href="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5732_1024x1024.jpg?v=1564485149" 
-                   data-image="//cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5732_1024x1024.jpg?v=1564485149" data-zoom-image="//cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5732_1024x1024.jpg?v=1564485149" data-image-id="7735365664822">
-                  <img src="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5732_compact.jpg?v=1564485149" alt="Laura Abaya">
-                </a>
-                
-                <a class="product-single__thumbnail shop-details-overly " href="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5734_1024x1024.jpg?v=1564485149" 
-                   data-image="//cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5734_1024x1024.jpg?v=1564485149" data-zoom-image="//cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5734_1024x1024.jpg?v=1564485149" data-image-id="7735365795894">
-                  <img src="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5734_compact.jpg?v=1564485149" alt="Laura Abaya">
-                </a>
-                
-                <a class="product-single__thumbnail shop-details-overly " href="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5728_1024x1024.jpg?v=1564485149" 
-                   data-image="//cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5728_1024x1024.jpg?v=1564485149" data-zoom-image="//cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5728_1024x1024.jpg?v=1564485149" data-image-id="7761159028790">
-                  <img src="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5728_compact.jpg?v=1564485149" alt="Laura Abaya">
-                </a>
-                
-              </div>
-            </div></div>
-        </div>
-      </div><div class="col-lg-6 col-md-6 col-12    ">
-        <form method="post" action="https://hijanahhaul.com/cart/add" id="AddToCartForm" accept-charset="UTF-8" class="product-content-inner" enctype="multipart/form-data"><input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" />   
-        <div class="product-details-content">
-          <h2 id="popup_cart_title">Laura Abaya</h2><div class="product-details-price">
-            <span id="ProductPrice"><span class=money>RM147.00 MYR</span></span><span class="old" id="ComparePrice"><span class=money>RM155.00 MYR</span></span></div><div class="pro-details-rating-wrap">
-            <div class="pro-details-rating">
-              <span class="shopify-product-reviews-badge" data-id="2230154133558"></span>
-            </div>
-          </div><!--           <div class="product-description"><p>Product Description Material : dull satin &amp; soft lace Design : Loose, A cut Consist of 2 layers ; inner (dull satin), outer (soft lace - from waist to the bottom) 8' inch hidden neck...</p></div> --><div class="pro-details-size-color"><div class="product-variant-option"> 
-  <select name="id" id="productSelect" class="product-single__variants" style="display:none;">
-    
-    
-    <option disabled="disabled">
-      S&M - Sold Out
-    </option>
-    
-    
-    
-    <option disabled="disabled">
-      L - Sold Out
-    </option>
-    
-    
-  </select></div></div><div class="pro-details-quality">
-
-            <div class="cart-plus-minus product-quantity-action quantity-selector">
-              <input class="cart-plus-minus-box" type="text" value="1" name="quantity">
-            </div>
-
-            <div class="product-cart-action pro-details-cart btn-hover">
-  
-  <button class="cart-disable btn-disable cart_button" type="button">
-    <span class="cart-text">Soldout</span>
+<div class="select-shoing-wrap"><div class="shop-select">
+    <select name="SortBy" id="SortBy">
+       <option value="manual">Featured</option>
+      <option value="best-selling">Best Selling</option>
+      <option value="title-ascending">Alphabetically, A-Z</option>
+      <option value="title-descending">Alphabetically, Z-A</option>
+      <option value="price-ascending">Price, low to high</option>
+      <option value="price-descending">Price, high to low</option>
+      <option value="created-descending">Date, new to old</option>
+      <option value="created-ascending">Date, old to new</option>
+    </select>
+  </div>
+  <p>Showing  
+    1 - 7 
+     of  
+    7 
+     result </p></div><div class="shop-tab">
+   <button class="change-view active" data-view="grid">
+    <i class="fa fa-table"></i>
+  </button>
+  <button class="change-view" data-view="list">
+    <i class="fa fa-list-ul"></i>
   </button>
   
-</div>
-
-<div class="pro-details-wishlist">
-              
-<a class="wishlist" href="../account/login.html" title="Wishlist">
-<i class="fa fa-heart-o"></i>
-</a>
-
-
-            </div><div class="pro-details-compare">
-              <a href="#"  class="compare" data-pid="laura-abaya" title="" data-original-title="Compare"><i class="pe-7s-shuffle"></i></a>
-            </div></div>
-
-          <div class="Payment_button"></div>
-          <div class="pro-details-meta">
-            <span>Categories:</span>
-            <ul>
-              
-              
-              <li>
-                <a href="../collections/frontpage.html">Abaya</a>,
-              </li>
-              
-              <li>
-                <a href="../collections/best-selling-products.html">Best Selling Products</a>,
-              </li>
-              
-              <li>
-                <a href="../collections/clearance.html">Clearance</a>
-              </li>
-              
-            </ul>
-          </div>
-          
-
-          
-<div class="pro-details-social">
-            <ul>
-
-  
-
-  
-
-  
-
-  <link href="http://cdn.shopify.com/s/global/social/social-icons.css" rel="stylesheet" type="text/css" media="all" />
-  <style>
-    .social-links a { display: -moz-inline-stack; display: inline-block; zoom: 1; *display: inline; margin: 0; padding: 0.05em; color: #555!important; font-size: 24px!important; }
-  </style>
-
-  
-
-    <li>
-      <a href="http://www.facebook.com/sharer.php?u=https://hijanahhaul.com/products/laura-abaya" title="Follow us on Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
-    </li>
-    <li>
-      <a href="http://twitter.com/share?text=Laura%20Abaya&amp;url=https://hijanahhaul.com/products/laura-abaya;source=webclient" title="Follow us on Twitter" target="_blank"><i class="fa fa-twitter"></i></a>  
-    </li>
-    <li>
-      <a href="http://plus.google.com/share?url=https://hijanahhaul.com/products/laura-abaya" title="Share on Google+" title="Follow us on Google+" target="_blank"><i class="fa fa-google-plus"></i></a>
-    </li>
-    
-    <li>
-      <a href="http://pinterest.com/pin/create/button/?url=https://hijanahhaul.com/products/laura-abaya&amp;media=http://cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5732_1024x1024.jpg?v=1564485149&amp;description=Laura%20Abaya" title="Follow us on Pinterest" target="_blank"><i class="fa fa-pinterest-p"></i></a>
-    </li>
-    
-    
-
-  
-
-</ul>
-          </div><div class="custom-payment-options"><div>
-              <p>guaranteed checkout</p>
-            </div><div class="methods-of-payment">
-  
-  <img src="http://cdn.shopify.com/s/assets/payment_icons/amazon-92e856f82cae5a564cd0f70457f11af4d58fa037cf6e5ab7adf76f6fd3b9cafe.svg" height="35" alt="amazon payments" />
-  
-  
-  
-  <img src="http://cdn.shopify.com/s/assets/payment_icons/visa-319d545c6fd255c9aad5eeaad21fd6f7f7b4fdbdb1a35ce83b89cca12a187f00.svg" height="35" alt="visa" />
-  
-  
-  
-  <img src="http://cdn.shopify.com/s/assets/payment_icons/master-173035bc8124581983d4efa50cf8626e8553c2b311353fbf67485f9c1a2b88d1.svg" height="35" alt="master" />
-  
-  
-  
-  <img src="http://cdn.shopify.com/s/assets/payment_icons/paypal-49e4c1e03244b6d2de0d270ca0d22dd15da6e92cc7266e93eb43762df5aa355d.svg" height="35" alt="paypal" />
-  
-  
-  
-  <img src="http://cdn.shopify.com/s/assets/payment_icons/discover-8265cfcac046637b87df7718c1436f6a1e054de3fbbb73c2ae82db1332879ba5.svg" height="35" alt="discover" />
-  
-  
-  
-  <img src="http://cdn.shopify.com/s/assets/payment_icons/american_express-2264c9b8b57b23b0b0831827e90cd7bcda2836adc42a912ebedf545dead35b20.svg" height="35" alt="american express" />
-  
-  
-  
-  <img src="http://cdn.shopify.com/s/assets/payment_icons/apple_pay-f6db0077dc7c325b436ecbdcf254239100b35b70b1663bc7523d7c424901fa09.svg" height="35" alt="apple pay" />
-  
-  
-  
-  <img src="http://cdn.shopify.com/s/assets/payment_icons/shopify_pay-d062d90212816e724f16662d29ca6e52a065d3a4cf538472b0b0c51c6f7c2ce6.svg" height="35" alt="shopify pay" />
-  
-  
-  
-  <img src="http://cdn.shopify.com/s/assets/payment_icons/bitcoin-e41278677541fc32b8d2e7fa41e61aaab2935151a6048a1d8d341162f5b93a0a.svg" height="35" alt="bitcoin" />
-  
-  
-  
-  <img src="http://cdn.shopify.com/s/assets/payment_icons/google_pay-c66a29c63facf2053bf69352982c958e9675cabea4f2f7ccec08d169d1856b31.svg" height="35" alt="google pay" />
-  
-  
-  
-  <img src="http://cdn.shopify.com/s/assets/payment_icons/diners_club-16436b9fb6dd9060edb51f1c7c44e23941e544ad798282d6aef1604319562fba.svg" height="35" alt="diners club" />
-  
-  
-  
-  
-</div>
-
-
-<style>
-  .methods-of-payment img { padding: 0.2em; }
-  .lt-ie9 .methods-of-payment, .ie8 .methods-of-payment, .oldie .methods-of-payment { display: none; }
-</style></div></div>
-        </form>
-       </div>
-
-    </div>
-  </div>
-</div>
-
-
-
-
-
-
-<style data-shopify>#section-product-template{padding-top: 90px;
-    padding-bottom: 90px;}
-  @media (min-width: 768px) and (max-width: 991px) {
-    #section-product-template{padding-top: 80px;
-      padding-bottom: 80px;}
+</div><script>
+  Shopify.queryParams = {};
+  if (location.search.length) {
+    for (var aKeyValue, i = 0, aCouples = location.search.substr(1).split('&'); i < aCouples.length; i++) {
+      aKeyValue = aCouples[i].split('=');
+      if (aKeyValue.length > 1) {
+        Shopify.queryParams[decodeURIComponent(aKeyValue[0])] = decodeURIComponent(aKeyValue[1]);
+      }
+    }
   }
-  @media (max-width: 767px) {
-    #section-product-template{padding-top: 70px;
-      padding-bottom: 70px;}
-  }</style>
-<script src="http://cdn.shopify.com/s/files/1/0167/7895/2758/t/5/assets/jquery.elevateZoom-3.0.8.min.js?4962"></script><link href="http://cdn.shopify.com/s/files/1/0167/7895/2758/t/5/assets/jquery.fancybox.css?4962" rel="stylesheet" type="text/css" media="all" />
-<script src="http://cdn.shopify.com/s/files/1/0167/7895/2758/t/5/assets/jquery.fancybox.min.js?4962"></script>
 
-<script>
-  $(document).ready(function() {
-    $('.fancybox').fancybox();
+  $(function() {
+    $('#SortBy')
+    .val('best-selling')
+         .bind('change', function() {
+      Shopify.queryParams.sort_by = jQuery(this).val();
+      location.search = jQuery.param(Shopify.queryParams);
+    }
+    );
   });
 </script>
-
-
-<script>
-  var selectCallback = function(variant, selector) {
-    timber.productPage({
-      money_format: "<span class=money>RM{{amount}} MYR</span>",
-      variant: variant,
-      selector: selector
-    });
-    
-    if (variant) {
-      
-      // Current variant select+
-      var form = jQuery('#' + selector.domIdPrefix).closest('form');
-      for (var i=0,length=variant.options.length; i<length; i++) {
-        var val = variant.options[i].replace(/'/g,"&#039;");
-        var radioButton = form.find(".swatch[data-option-index='" + i + "'] :radio[value='" + val +"']");
-//        if (radioButton.size()) {
-        if (radioButton.length) {
-          radioButton.get(0).checked = true;
-        }
-      }
-
-      // Current sku pass
-      $('.variant-sku').text(variant.sku);
-    }else {
-      $('.variant-sku').empty();
-    }// product image zoom with variant
-    if (variant && variant.featured_image) { 
-      jQuery('#ProductThumbs a[data-image-id="' + variant.featured_image.id + '"]').trigger('click'); 
-    }};
-  
-  jQuery(function($) {
-    new Shopify.OptionSelectors('productSelect', {
-      product: {"id":2230154133558,"title":"Laura Abaya","handle":"laura-abaya","description":"\u003cp\u003e\u003cstrong\u003eProduct Description\u003c\/strong\u003e\u003c\/p\u003e\n\u003cul\u003e\n\u003cli\u003eMaterial : dull satin \u0026amp; soft lace\u003c\/li\u003e\n\u003cli\u003eDesign : Loose, A cut\u003c\/li\u003e\n\u003cli\u003eConsist of 2 layers ; inner (dull satin), outer (soft lace - from waist to the bottom)\u003c\/li\u003e\n\u003cli\u003e8' inch hidden neck zipper\u003c\/li\u003e\n\u003cli\u003ewudhu friendly (hidden sleeve zipper)\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cp\u003e \u003c\/p\u003e\n\u003cmeta charset=\"utf-8\"\u003e\u003cmeta charset=\"utf-8\"\u003e\n\u003cp\u003e\u003cstrong\u003eCare instruction\u003c\/strong\u003e\u003c\/p\u003e\n\u003cul\u003e\n\u003cli\u003eMachine\/Hand wash, cold wash, do not tumble dry or bleach\u003c\/li\u003e\n\u003cli\u003eLow to medium heat iron \u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cp\u003e \u003c\/p\u003e\n\u003cp\u003e\u003cstrong\u003eNote:\u003c\/strong\u003e\u003c\/p\u003e\n\u003cul\u003e\n\u003cli\u003eWe would recommend delicate wash if you're using a washing machine. Hand wash is highly recommended to maintain fabric quality.\u003c\/li\u003e\n\u003cli\u003eThe colours in the pictures may be slightly different based on lighting and individual screen resolution settings on each device.\u003c\/li\u003e\n\u003c\/ul\u003e","published_at":"2019-07-22T23:31:39+08:00","created_at":"2019-07-22T23:37:36+08:00","vendor":"Hijanah Haul","type":"","tags":[],"price":14700,"price_min":14700,"price_max":14700,"available":false,"price_varies":false,"compare_at_price":15500,"compare_at_price_min":15500,"compare_at_price_max":15500,"compare_at_price_varies":false,"variants":[{"id":20934653280310,"title":"S\u0026M","option1":"S\u0026M","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":true,"featured_image":null,"available":false,"name":"Laura Abaya - S\u0026M","public_title":"S\u0026M","options":["S\u0026M"],"price":14700,"weight":0,"compare_at_price":15500,"inventory_management":"shopify","barcode":""},{"id":20934653313078,"title":"L","option1":"L","option2":null,"option3":null,"sku":"","requires_shipping":true,"taxable":true,"featured_image":null,"available":false,"name":"Laura Abaya - L","public_title":"L","options":["L"],"price":14700,"weight":0,"compare_at_price":15500,"inventory_management":"shopify","barcode":""}],"images":["\/\/cdn.shopify.com\/s\/files\/1\/0167\/7895\/2758\/products\/AMR_5732.jpg?v=1564485149","#\/\/cdn.shopify.com\/s\/files\/1\/0167\/7895\/2758\/products\/AMR_5734.jpg?v=1564485149","#\/\/cdn.shopify.com\/s\/files\/1\/0167\/7895\/2758\/products\/AMR_5728.jpg?v=1564485149","\/\/cdn.shopify.com\/s\/files\/1\/0167\/7895\/2758\/products\/AMR_5745.jpg?v=1564485149"],"featured_image":"\/\/cdn.shopify.com\/s\/files\/1\/0167\/7895\/2758\/products\/AMR_5732.jpg?v=1564485149","options":["Size"],"content":"\u003cp\u003e\u003cstrong\u003eProduct Description\u003c\/strong\u003e\u003c\/p\u003e\n\u003cul\u003e\n\u003cli\u003eMaterial : dull satin \u0026amp; soft lace\u003c\/li\u003e\n\u003cli\u003eDesign : Loose, A cut\u003c\/li\u003e\n\u003cli\u003eConsist of 2 layers ; inner (dull satin), outer (soft lace - from waist to the bottom)\u003c\/li\u003e\n\u003cli\u003e8' inch hidden neck zipper\u003c\/li\u003e\n\u003cli\u003ewudhu friendly (hidden sleeve zipper)\u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cp\u003e \u003c\/p\u003e\n\u003cmeta charset=\"utf-8\"\u003e\u003cmeta charset=\"utf-8\"\u003e\n\u003cp\u003e\u003cstrong\u003eCare instruction\u003c\/strong\u003e\u003c\/p\u003e\n\u003cul\u003e\n\u003cli\u003eMachine\/Hand wash, cold wash, do not tumble dry or bleach\u003c\/li\u003e\n\u003cli\u003eLow to medium heat iron \u003c\/li\u003e\n\u003c\/ul\u003e\n\u003cp\u003e \u003c\/p\u003e\n\u003cp\u003e\u003cstrong\u003eNote:\u003c\/strong\u003e\u003c\/p\u003e\n\u003cul\u003e\n\u003cli\u003eWe would recommend delicate wash if you're using a washing machine. Hand wash is highly recommended to maintain fabric quality.\u003c\/li\u003e\n\u003cli\u003eThe colours in the pictures may be slightly different based on lighting and individual screen resolution settings on each device.\u003c\/li\u003e\n\u003c\/ul\u003e"},
-      onVariantSelected: selectCallback,
-      enableHistoryState: true
-    });
-
-    // Add label if only one product option and it isn't 'Title'. Could be 'Size'.
-    
-      $('.selector-wrapper:eq(0)').prepend('<label for="productSelect-option-0">Size</label>');
-    
-
-    // Hide selectors if we only have 1 variant and its title contains 'Default'.
-    
-  });function productZoom(){
-    $(".product-zoom").elevateZoom({
-      gallery: 'ProductThumbs',
-      galleryActiveClass: "active",
-      zoomType: "inner",
-      cursor: "crosshair"
-    });$(".product-zoom").on("click", function(e) {
-      var ez = $('.product-zoom').data('elevateZoom');
-      $.fancybox(ez.getGalleryList());
-      return false;
-    });
-    
-  };
-  function productZoomDisable(){
-    if( $(window).width() < 767 ) {
-      $('.zoomContainer').remove();
-      $(".product-zoom").removeData('elevateZoom');
-      $(".product-zoom").removeData('zoomImage');
-    } else {
-      productZoom();
-    }
-  };
-
-  productZoomDisable();
-
-  $(window).resize(function() {
-    productZoomDisable();
-  });/*---------------------
-        Product dec slider
-    --------------------- */
-    $(' #section-product-template .product-dec-slider-2').slick({
-        infinite: true,
-      
-        slidesToShow: 4,
-        vertical: true,
-        slidesToScroll: 1,
-        centerPadding: '60px',
-        prevArrow: '<span class="product-dec-icon product-dec-prev"><i class="fa fa-angle-up"></i></span>',
-        nextArrow: '<span class="product-dec-icon product-dec-next"><i class="fa fa-angle-down"></i></span>',
-        responsive: [{
-                breakpoint: 1024,
-                settings: {
-                    slidesToShow: 4,
-                    slidesToScroll: 1
-                }
-            },
-            {
-                breakpoint: 992,
-                settings: {
-                    slidesToShow: 2,
-                    slidesToScroll: 1
-                }
-            },
-            {
-                breakpoint: 767,
-                settings: {
-                    slidesToShow: 2,
-                    slidesToScroll: 1
-                }
-            }
-        ]
-    });
-
-  
-      
-    /*---------------------
-        Sidebar active
-    --------------------- */
-    $('#section-product-template .sidebar-active').stickySidebar({
-        topSpacing: 80,
-        bottomSpacing: 30,
-        minWidth: 767,
-    });
-     
-    
-    /* Product details slider */
-    $('#section-product-template .product-details-slider-active').owlCarousel({
-        loop: true,
-      
-        nav: true,
-        autoplay: false,
-        autoplayTimeout: 5000,
-        animateOut: 'fadeOut',
-        animateIn: 'fadeIn',
-        navText: ['<i class="fa fa-chevron-left"></i>', '<i class="fa fa-chevron-right"></i>'],
-        item: 1,
-        margin: 30,
-        responsive: {
-            0: {
-                items: 1
-            },
-            768: {
-                items: 1
-            },
-            1000: {
-                items: 1
-            }
-        }
-    })
-    
-  
-  
-  
-</script>
-</div>
-<div id="shopify-section-single-product-tab" class="shopify-section">
-
-<div class="description-review-area" id="section-single-product-tab">
-  <div class="container ">
-    <div class="description-review-wrapper">
-      <div class="description-review-topbar nav">
-        
-        <a href="#pro-dec" data-toggle="tab" role="tab" class="active" aria-selected="true">
-          Description
-        </a>
-        
-        
-        <a href="#pro-review" data-toggle="tab" role="tab" >
-          Reviews
-        </a>
-        
-        
-        
-        
-        <a href="#shipping-policy-1534064591651" data-toggle="tab" role="tab" aria-selected="false">
-          Shipping Policy
-        </a>
-        
-        
-        <a href="#sizing-chart-1534064854291" data-toggle="tab" role="tab" aria-selected="false">
-          Size Chart
-        </a>
-        
-        
-        <a href="#-1550138071463" data-toggle="tab" role="tab" aria-selected="false">
-          
-        </a>
-        
-        
-      </div>
-      <div class="tab-content description-review-bottom">
-        
-        <div class="tab-pane active" id="pro-dec" role="tabpanel">
-          <div class="product-description-wrapper"><p><strong>Product Description</strong></p>
-<ul>
-<li>Material : dull satin &amp; soft lace</li>
-<li>Design : Loose, A cut</li>
-<li>Consist of 2 layers ; inner (dull satin), outer (soft lace - from waist to the bottom)</li>
-<li>8' inch hidden neck zipper</li>
-<li>wudhu friendly (hidden sleeve zipper)</li>
-</ul>
-<p> </p>
-<meta charset="utf-8"><meta charset="utf-8">
-<p><strong>Care instruction</strong></p>
-<ul>
-<li>Machine/Hand wash, cold wash, do not tumble dry or bleach</li>
-<li>Low to medium heat iron </li>
-</ul>
-<p> </p>
-<p><strong>Note:</strong></p>
-<ul>
-<li>We would recommend delicate wash if you're using a washing machine. Hand wash is highly recommended to maintain fabric quality.</li>
-<li>The colours in the pictures may be slightly different based on lighting and individual screen resolution settings on each device.</li>
-</ul>
-</div>
-        </div>
-        
-        
-        <div class="tab-pane " id="pro-review" role="tabpanel">
-          <div class="product-anotherinfo-wrapper">
-            <div id="shopify-product-reviews" data-id="2230154133558"></div>
-          </div>
-        </div>
-          
-        
-        
-        
-        <div class="tab-pane" id="shipping-policy-1534064591651" role="tabpanel">
-          <div class="product-anotherinfo-wrapper">
-          <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>SHIPPING POLICY OF HIJANAH HAUL</strong></span></h2>
-<div style="text-align: center;">Thank you for visiting and shopping at</div>
-<div style="text-align: center;"><meta charset="utf-8"></div>
-<div style="text-align: center;">
-<a href="../index.html">https://hijanahhaul.com/</a>. Following are the terms and conditions that constitute our Shipping Policy.</div>
-<div style="text-align: center;">-</div>
-<p><strong>Shipment processing time</strong></p>
-<p>All orders are processed within 3 business days. For international usually within 10 days. Orders are not shipped or delivered on weekends or holidays. If we are experiencing a high volume of orders, shipments may be delayed by a few days. Please allow additional days in transit for delivery. If there will be a significant delay in shipment of your order, we will contact you via email or telephone</p>
-<p><strong>Shipping rates &amp; delivery estimates</strong></p>
-<p>Shipping charges for your order will be calculated and displayed at checkout.</p>
-<p> </p>
-<table width="487">
-<tbody>
-<tr>
-<td width="162"><strong>Number Of Items</strong></td>
-<td width="162">
-<p><strong>Estimated delivery time</strong></p>
-</td>
-<td width="162">
-<p><strong>Shipment cost</strong></p>
-</td>
-</tr>
-<tr>
-<td width="162">
-<p>1</p>
-</td>
-<td width="162">
-<p>3-7 business days</p>
-</td>
-<td width="162">
-<p>Rm10</p>
-</td>
-</tr>
-<tr>
-<td width="162">
-<p>2</p>
-</td>
-<td width="162">
-<p>3-7 Business days</p>
-</td>
-<td width="162">
-<p>Rm15</p>
-</td>
-</tr>
-<tr>
-<td width="162">
-<p>3</p>
-</td>
-<td width="162">
-<p>3-7 business days</p>
-</td>
-<td width="162">
-<p>Rm20</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>  </p>
-<p>For International shipping cost (Brunei, Singapore, Indonesia) is RM 75. However, other countries which are not stated above, please email us at info@hijanahhaul.com </p>
-<p><strong>Shipment confirmation &amp; Order tracking</strong></p>
-<p>You will receive a Shipment Confirmation email once your order has shipped containing your tracking number(s). The tracking number will be active within 24 hours.</p>
-<p><strong>Customs, Duties and Taxes</strong></p>
-<p>Hijanah Haul is not responsible for any customs and taxes applied to your order. All fees imposed during or after shipping are the responsibility of the customer (tariffs, taxes, etc.).</p>
-<p><strong>Damages</strong></p>
-<p>Hijanah Haul is not liable for any products damaged or lost during shipping. If you received your order damaged, please contact the shipment carrier to file a claim. Please save all packaging materials and damaged goods before filing a claim.</p>
-<p> </p>
-<p>  </p>
-          </div>
-        </div>
-        
-        
-        <div class="tab-pane" id="sizing-chart-1534064854291" role="tabpanel">
-          <div class="product-anotherinfo-wrapper">
-          <h3 style="text-align: center;">Any customization of size please do email us at hijanahhaul@gmail.com or call 60146094964</h3>
-<p style="text-align: center;">-</p>
-<div style="text-align: center;"></div>
-<div style="text-align: center;"><img src="https://cdn.shopify.com/s/files/1/0167/7895/2758/files/IMG_20190801_115829_356_480x480.jpg?v=1564634932" alt="" style="display: block; margin-left: auto; margin-right: auto;"></div>
-          </div>
-        </div>
-        
-        
-        <div class="tab-pane" id="-1550138071463" role="tabpanel">
-          <div class="product-anotherinfo-wrapper">
-          
-          </div>
-        </div>
-        
-        
-      </div>
-    </div>
-  </div>
-</div>
+</div><div class="shop-bottom-area mt-35">
+          <div class="tab-content">
+            <div id="shop-1">
+              <div class="row"><div class="col-lg-4 col-md-6 col-6">
 
 
 
-<style data-shopify>#section-single-product-tab{padding-top: 0px;
-    padding-bottom: 90px;}
-  @media (min-width: 768px) and (max-width: 991px) {
-    #section-single-product-tab{padding-top: 0px;
-      padding-bottom: 80px;}
-  }
-  @media (max-width: 767px) {
-    #section-single-product-tab{padding-top: 0px;
-      padding-bottom: 70px;}
-  }</style>
-
-
-
-
-
-</div>
-<div id="shopify-section-related-product" class="shopify-section"><!-- PRODUCT SECTION START -->
-
-
-
-
-
-
-
-<div class="related-product-area" id="section-related-product">
-  <div class="container ">
-      
-    <div class="section-title text-center mb-50">
-      <h2>Related Product</h2>
-    </div>
-      
-    <div class="related-product-active owl-carousel">
-      
-      
-      
-      
-      
-     <div class="product-wrap 21024301547574">
+<div class="product-wrap mb-25 scroll-zoom 30106348421174">
   <div class="product-img">
-    <a href="../collections/best-selling-products/products/kareena-abaya.html">
-      
-      <img class="default-img popup_cart_image" src="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5611_large.jpg?v=1564505886" alt="Kareena Abaya">
-      
-      <img class="hover-img popup_cart_image" src="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5607_large.jpg?v=1564505886" alt="">
-      
-      
-    </a>
-<span class="soldout-title pink">Soldout</span>
-<div class="product-action">
-      <div class="pro-same-action pro-wishlist">
-        
-
-  
-  <a title="Add Wishlist" class="wishlist" href="../account/login.html" title="Wishlist">
-    <i class="pe-7s-like"></i>
-  </a>
-  
-
-      </div>
-      <div class="pro-same-action pro-cart">
-        
-
-
-<button class="cart-disable color_button">
-  <span class="cart-text"><i class="pe-7s-cart"></i></span>
-  Soldout
-</button>
-
-
-
-
-
-
-
-
-
-
-      </div><div class="pro-same-action pro-quickview">
-        <a title="Quick View" class="action-plus" title="Quick View" data-toggle="modal" data-target="#quickViewModal" href="javascript:void(0);" 
-           onclick="quiqview('kareena-abaya')"><i class="pe-7s-look"></i>
-        </a>
-      </div></div>
-
-  </div>
-
-  <div class="product-content text-center">
-    <h3 class="popup_cart_title"><a href="../collections/best-selling-products/products/kareena-abaya.html">Kareena Abaya</a></h3>
-    <div class="product-rating">
-      <span class="shopify-product-reviews-badge" data-id="2220263440438"></span>
-    </div>
-    <div class="product-price">
-      <span><span class=money>RM152.00 MYR</span></span>
-      
-      <span class="old"><span class=money>RM159.00 MYR</span></span>
-      
-    </div>
-  </div>
-
-</div>
-         
-           
-      
-      
-      
-           
-      
-      
-      
-     <div class="product-wrap 31181012861041">
-  <div class="product-img">
-    <a href="../collections/best-selling-products/products/calice-abaya.html">
-      
-      <img class="default-img popup_cart_image" src="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5853_large.jpg?v=1564505825" alt="Calice Abaya">
-      
-      <img class="hover-img popup_cart_image" src="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5880_large.jpg?v=1564505825" alt="">
-      
-      
-    </a>
-
-
-
-<span class="sale-title pink">Sale</span>
-
-
-
-<span class="percent-count pink">-10%</span>
-
-
-
-
-
-
-<div class="product-action">
-      <div class="pro-same-action pro-wishlist">
-        
-
-  
-  <a title="Add Wishlist" class="wishlist" href="../account/login.html" title="Wishlist">
-    <i class="pe-7s-like"></i>
-  </a>
-  
-
-      </div>
-      <div class="pro-same-action pro-cart">
-        
-
-
-
-
-<a href="javascript:void(0);" onclick="Shopify.addItem(31181012861041, 1); return false;" class="ajax-spin-cart">
-  <span>
-    <span class="cart-title"><i class="pe-7s-cart"></i></span>
-    <span class="cart-loading"><i class="fa fa-circle-o-notch fa-spin"></i></span>
-    <span class="cart-added"><i class="fa fa-check"></i></span>
-    <span class="cart-unavailable"><i class="fa fa-times"></i></span>
-  </span>
-  Add to cart
-</a>
-
-
-
-
-
-
-
-
-
-
-
-      </div><div class="pro-same-action pro-quickview">
-        <a title="Quick View" class="action-plus" title="Quick View" data-toggle="modal" data-target="#quickViewModal" href="javascript:void(0);" 
-           onclick="quiqview('calice-abaya')"><i class="pe-7s-look"></i>
-        </a>
-      </div></div>
-
-  </div>
-
-  <div class="product-content text-center">
-    <h3 class="popup_cart_title"><a href="../collections/best-selling-products/products/calice-abaya.html">Calice Abaya</a></h3>
-    <div class="product-rating">
-      <span class="shopify-product-reviews-badge" data-id="2229106638902"></span>
-    </div>
-    <div class="product-price">
-      <span><span class=money>RM139.00 MYR</span></span>
-      
-      <span class="old"><span class=money>RM155.00 MYR</span></span>
-      
-    </div>
-  </div>
-
-</div>
-         
-           
-      
-      
-      
-     <div class="product-wrap 30106348421174">
-  <div class="product-img">
-    <a href="../collections/best-selling-products/products/anna.html">
+    <a href="new-in/products/anna.html">
       
       <img class="default-img popup_cart_image" src="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/IMG_2558_large.jpg?v=1568550835" alt="Anna Abaya">
       
@@ -2364,7 +227,7 @@ window.supported_currencies = "MYR USD BND";
   </div>
 
   <div class="product-content text-center">
-    <h3 class="popup_cart_title"><a href="../collections/best-selling-products/products/anna.html">Anna Abaya</a></h3>
+    <h3 class="popup_cart_title"><a href="new-in/products/anna.html">Anna Abaya</a></h3>
     <div class="product-rating">
       <span class="shopify-product-reviews-badge" data-id="2323567476790"></span>
     </div>
@@ -2376,15 +239,13 @@ window.supported_currencies = "MYR USD BND";
     </div>
   </div>
 
-</div>
-         
-           
-      
-      
-      
-     <div class="product-wrap 30106341408822">
+</div></div><div class="col-lg-4 col-md-6 col-6">
+
+
+
+<div class="product-wrap mb-25 scroll-zoom 30106341408822">
   <div class="product-img">
-    <a href="../collections/best-selling-products/products/aleesa-abaya.html">
+    <a href="new-in/products/aleesa-abaya.html">
       
       <img class="default-img popup_cart_image" src="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/IMG_2573_large.jpg?v=1568551959" alt="Aleesa Abaya">
       
@@ -2452,7 +313,7 @@ window.supported_currencies = "MYR USD BND";
   </div>
 
   <div class="product-content text-center">
-    <h3 class="popup_cart_title"><a href="../collections/best-selling-products/products/aleesa-abaya.html">Aleesa Abaya</a></h3>
+    <h3 class="popup_cart_title"><a href="new-in/products/aleesa-abaya.html">Aleesa Abaya</a></h3>
     <div class="product-rating">
       <span class="shopify-product-reviews-badge" data-id="2323579404342"></span>
     </div>
@@ -2464,15 +325,13 @@ window.supported_currencies = "MYR USD BND";
     </div>
   </div>
 
-</div>
-         
-           
-      
-      
-      
-     <div class="product-wrap 31131917615217">
+</div></div><div class="col-lg-4 col-md-6 col-6">
+
+
+
+<div class="product-wrap mb-25 scroll-zoom 31131917615217">
   <div class="product-img">
-    <a href="../collections/best-selling-products/products/ruby-sport-wear.html">
+    <a href="new-in/products/ruby-sport-wear.html">
       
       <img class="default-img popup_cart_image" src="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/IMG_4425_large.jpg?v=1573574455" alt="Ruby Sport wear">
       
@@ -2540,7 +399,7 @@ window.supported_currencies = "MYR USD BND";
   </div>
 
   <div class="product-content text-center">
-    <h3 class="popup_cart_title"><a href="../collections/best-selling-products/products/ruby-sport-wear.html">Ruby Sport wear</a></h3>
+    <h3 class="popup_cart_title"><a href="new-in/products/ruby-sport-wear.html">Ruby Sport wear</a></h3>
     <div class="product-rating">
       <span class="shopify-product-reviews-badge" data-id="4336407838833"></span>
     </div>
@@ -2552,103 +411,13 @@ window.supported_currencies = "MYR USD BND";
     </div>
   </div>
 
-</div>
-         
-           
-      
-      
-      
-     <div class="product-wrap 20934555926582">
+</div></div><div class="col-lg-4 col-md-6 col-6">
+
+
+
+<div class="product-wrap mb-25 scroll-zoom 30106368606262">
   <div class="product-img">
-    <a href="../collections/best-selling-products/products/carmelina-abaya.html">
-      
-      <img class="default-img popup_cart_image" src="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5819_large.jpg?v=1564505849" alt="Carmelina Abaya">
-      
-      <img class="hover-img popup_cart_image" src="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5830_large.jpg?v=1564505849" alt="">
-      
-      
-    </a>
-
-
-
-<span class="sale-title pink">Sale</span>
-
-
-
-<span class="percent-count pink">-5%</span>
-
-
-
-
-
-
-<div class="product-action">
-      <div class="pro-same-action pro-wishlist">
-        
-
-  
-  <a title="Add Wishlist" class="wishlist" href="../account/login.html" title="Wishlist">
-    <i class="pe-7s-like"></i>
-  </a>
-  
-
-      </div>
-      <div class="pro-same-action pro-cart">
-        
-
-
-
-
-<a href="javascript:void(0);" onclick="Shopify.addItem(20934555926582, 1); return false;" class="ajax-spin-cart">
-  <span>
-    <span class="cart-title"><i class="pe-7s-cart"></i></span>
-    <span class="cart-loading"><i class="fa fa-circle-o-notch fa-spin"></i></span>
-    <span class="cart-added"><i class="fa fa-check"></i></span>
-    <span class="cart-unavailable"><i class="fa fa-times"></i></span>
-  </span>
-  Add to cart
-</a>
-
-
-
-
-
-
-
-
-
-
-
-      </div><div class="pro-same-action pro-quickview">
-        <a title="Quick View" class="action-plus" title="Quick View" data-toggle="modal" data-target="#quickViewModal" href="javascript:void(0);" 
-           onclick="quiqview('carmelina-abaya')"><i class="pe-7s-look"></i>
-        </a>
-      </div></div>
-
-  </div>
-
-  <div class="product-content text-center">
-    <h3 class="popup_cart_title"><a href="../collections/best-selling-products/products/carmelina-abaya.html">Carmelina Abaya</a></h3>
-    <div class="product-rating">
-      <span class="shopify-product-reviews-badge" data-id="2230129852470"></span>
-    </div>
-    <div class="product-price">
-      <span><span class=money>RM147.00 MYR</span></span>
-      
-      <span class="old"><span class=money>RM155.00 MYR</span></span>
-      
-    </div>
-  </div>
-
-</div>
-         
-           
-      
-      
-      
-     <div class="product-wrap 30106368606262">
-  <div class="product-img">
-    <a href="../collections/best-selling-products/products/sofea-abaya.html">
+    <a href="new-in/products/sofea-abaya.html">
       
       <img class="default-img popup_cart_image" src="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/IMG_2564_large.jpg?v=1568551600" alt="Sofea Abaya">
       
@@ -2695,7 +464,7 @@ window.supported_currencies = "MYR USD BND";
   </div>
 
   <div class="product-content text-center">
-    <h3 class="popup_cart_title"><a href="../collections/best-selling-products/products/sofea-abaya.html">Sofea Abaya</a></h3>
+    <h3 class="popup_cart_title"><a href="new-in/products/sofea-abaya.html">Sofea Abaya</a></h3>
     <div class="product-rating">
       <span class="shopify-product-reviews-badge" data-id="2323576881206"></span>
     </div>
@@ -2707,19 +476,17 @@ window.supported_currencies = "MYR USD BND";
     </div>
   </div>
 
-</div>
-         
-           
-      
-      
-      
-     <div class="product-wrap 20934604750902">
+</div></div><div class="col-lg-4 col-md-6 col-6">
+
+
+
+<div class="product-wrap mb-25 scroll-zoom 30106360479798">
   <div class="product-img">
-    <a href="../collections/best-selling-products/products/laudya-abaya.html">
+    <a href="new-in/products/nour.html">
       
-      <img class="default-img popup_cart_image" src="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5594_large.jpg?v=1564505966" alt="Laudya Abaya">
+      <img class="default-img popup_cart_image" src="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/IMG_2551_large.jpg?v=1568551231" alt="Nour Abaya">
       
-      <img class="hover-img popup_cart_image" src="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/AMR_5594_1_copy_large.jpg?v=1564505966" alt="">
+      <img class="hover-img popup_cart_image" src="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/IMG_2552_large.jpg?v=1568551231" alt="">
       
       
     </a>
@@ -2730,7 +497,7 @@ window.supported_currencies = "MYR USD BND";
 
 
 
-<span class="percent-count pink">-17%</span>
+<span class="percent-count pink">-28%</span>
 
 
 
@@ -2754,7 +521,7 @@ window.supported_currencies = "MYR USD BND";
 
 
 
-<a href="javascript:void(0);" onclick="Shopify.addItem(20934604750902, 1); return false;" class="ajax-spin-cart">
+<a href="javascript:void(0);" onclick="Shopify.addItem(30106360479798, 1); return false;" class="ajax-spin-cart">
   <span>
     <span class="cart-title"><i class="pe-7s-cart"></i></span>
     <span class="cart-loading"><i class="fa fa-circle-o-notch fa-spin"></i></span>
@@ -2776,84 +543,430 @@ window.supported_currencies = "MYR USD BND";
 
       </div><div class="pro-same-action pro-quickview">
         <a title="Quick View" class="action-plus" title="Quick View" data-toggle="modal" data-target="#quickViewModal" href="javascript:void(0);" 
-           onclick="quiqview('laudya-abaya')"><i class="pe-7s-look"></i>
+           onclick="quiqview('nour')"><i class="pe-7s-look"></i>
         </a>
       </div></div>
 
   </div>
 
   <div class="product-content text-center">
-    <h3 class="popup_cart_title"><a href="../collections/best-selling-products/products/laudya-abaya.html">Laudya Abaya</a></h3>
+    <h3 class="popup_cart_title"><a href="new-in/products/nour.html">Nour Abaya</a></h3>
     <div class="product-rating">
-      <span class="shopify-product-reviews-badge" data-id="2230141878326"></span>
+      <span class="shopify-product-reviews-badge" data-id="2323565740086"></span>
     </div>
     <div class="product-price">
       <span><span class=money>RM129.00 MYR</span></span>
       
-      <span class="old"><span class=money>RM155.00 MYR</span></span>
+      <span class="old"><span class=money>RM179.00 MYR</span></span>
       
     </div>
   </div>
 
-</div>
-         
-           
+</div></div><div class="col-lg-4 col-md-6 col-6">
+
+
+
+<div class="product-wrap mb-25 scroll-zoom 30106354778166">
+  <div class="product-img">
+    <a href="new-in/products/gina.html">
+      
+      <img class="default-img popup_cart_image" src="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/IMG_2569_large.jpg?v=1568523934" alt="Gina Abaya">
+      
+      <img class="hover-img popup_cart_image" src="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/IMG_2570_large.jpg?v=1568524121" alt="">
+      
+      
+    </a>
+
+
+
+<span class="sale-title pink">Sale</span>
+
+
+
+<span class="percent-count pink">-28%</span>
+
+
+
+
+
+
+<div class="product-action">
+      <div class="pro-same-action pro-wishlist">
+        
+
+  
+  <a title="Add Wishlist" class="wishlist" href="../account/login.html" title="Wishlist">
+    <i class="pe-7s-like"></i>
+  </a>
+  
+
+      </div>
+      <div class="pro-same-action pro-cart">
+        
+
+
+
+
+<a href="javascript:void(0);" onclick="Shopify.addItem(30106354778166, 1); return false;" class="ajax-spin-cart">
+  <span>
+    <span class="cart-title"><i class="pe-7s-cart"></i></span>
+    <span class="cart-loading"><i class="fa fa-circle-o-notch fa-spin"></i></span>
+    <span class="cart-added"><i class="fa fa-check"></i></span>
+    <span class="cart-unavailable"><i class="fa fa-times"></i></span>
+  </span>
+  Add to cart
+</a>
+
+
+
+
+
+
+
+
+
+
+
+      </div><div class="pro-same-action pro-quickview">
+        <a title="Quick View" class="action-plus" title="Quick View" data-toggle="modal" data-target="#quickViewModal" href="javascript:void(0);" 
+           onclick="quiqview('gina')"><i class="pe-7s-look"></i>
+        </a>
+      </div></div>
+
+  </div>
+
+  <div class="product-content text-center">
+    <h3 class="popup_cart_title"><a href="new-in/products/gina.html">Gina Abaya</a></h3>
+    <div class="product-rating">
+      <span class="shopify-product-reviews-badge" data-id="2323545980982"></span>
+    </div>
+    <div class="product-price">
+      <span><span class=money>RM129.00 MYR</span></span>
+      
+      <span class="old"><span class=money>RM179.00 MYR</span></span>
       
     </div>
   </div>
+
+</div></div><div class="col-lg-4 col-md-6 col-6">
+
+
+
+<div class="product-wrap mb-25 scroll-zoom 31202013446257">
+  <div class="product-img">
+    <a href="new-in/products/carla-abaya.html">
+      
+      <img class="default-img popup_cart_image" src="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/hijanahhaul-studio-shoot-6.11.2019-44225-mh1575082181439_large.jpg?v=1575084534" alt="Carla Abaya">
+      
+      <img class="hover-img popup_cart_image" src="http://cdn.shopify.com/s/files/1/0167/7895/2758/products/hijanahhaul-studio-shoot-6.11.2019-44246-mh1574416557092_large.jpg?v=1575084534" alt="">
+      
+      
+    </a>
+
+
+
+<span class="sale-title pink">Sale</span>
+
+
+
+<span class="percent-count pink">-24%</span>
+
+
+
+
+
+
+<div class="product-action">
+      <div class="pro-same-action pro-wishlist">
+        
+
+  
+  <a title="Add Wishlist" class="wishlist" href="../account/login.html" title="Wishlist">
+    <i class="pe-7s-like"></i>
+  </a>
+  
+
+      </div>
+      <div class="pro-same-action pro-cart">
+        
+
+
+
+
+<a href="javascript:void(0);" onclick="Shopify.addItem(31202013446257, 1); return false;" class="ajax-spin-cart">
+  <span>
+    <span class="cart-title"><i class="pe-7s-cart"></i></span>
+    <span class="cart-loading"><i class="fa fa-circle-o-notch fa-spin"></i></span>
+    <span class="cart-added"><i class="fa fa-check"></i></span>
+    <span class="cart-unavailable"><i class="fa fa-times"></i></span>
+  </span>
+  Add to cart
+</a>
+
+
+
+
+
+
+
+
+
+
+
+      </div><div class="pro-same-action pro-quickview">
+        <a title="Quick View" class="action-plus" title="Quick View" data-toggle="modal" data-target="#quickViewModal" href="javascript:void(0);" 
+           onclick="quiqview('carla-abaya')"><i class="pe-7s-look"></i>
+        </a>
+      </div></div>
+
+  </div>
+
+  <div class="product-content text-center">
+    <h3 class="popup_cart_title"><a href="new-in/products/carla-abaya.html">Carla Abaya</a></h3>
+    <div class="product-rating">
+      <span class="shopify-product-reviews-badge" data-id="4352105840753"></span>
+    </div>
+    <div class="product-price">
+      <span><span class=money>RM159.00 MYR</span></span>
+      
+      <span class="old"><span class=money>RM209.00 MYR</span></span>
+      
+    </div>
+  </div>
+
+</div></div></div>
+            </div>
+          </div>
+          <div class="pro-pagination-style text-center mt-30">
+
+
+<script>
+  $(".theme-default-pagination .disabled a").removeAttr("href");
+  $(".theme-default-pagination li.active a").removeAttr("href");
+</script></div>
+        </div></div><div class="col-lg-3">
+
+
+
+
+<div class="sidebar-style">
+  
+  
+  
+  <div class="sidebar-widget"><h4 class="pro-sidebar-title">Search </h4><div class="pro-sidebar-search mt-25">
+      <form class="pro-sidebar-search-form" aaction="/search" method="get" role="search">
+        <input type="search" name="q" value="" placeholder="Search our store" aria-label="Search our store">
+        <button type="submit">
+          <i class="pe-7s-search"></i>
+        </button>
+      </form>
+    </div>
+  </div>
+
+  
+  
+  
+  <div class="sidebar-widget mt-50"><h4 class="pro-sidebar-title">Custom Menu</h4><div class="sidebar-widget-list mt-20">
+      <ul>
+        
+        
+        <li class="">
+          <div class="sidebar-widget-list-left">
+            <a href="../collections.html">New Arrival</a>
+          </div>
+        </li>
+        
+        <li class="">
+          <div class="sidebar-widget-list-left">
+            <a href="frontpage.html">Abaya</a>
+          </div>
+        </li>
+        
+      </ul>
+    </div>
+  </div>
+
+  
+  
+  
+  <div class="sidebar-widget mt-50"><h4 class="pro-sidebar-title">Categories</h4><div class="sidebar-widget-list mt-30">
+      <ul>
+        
+        
+        <li class="">
+          <div class="sidebar-widget-list-left">
+            <a href="frontpage.html">Abaya <span>7</span> </a> 
+          </div>
+        </li>
+        
+        <li class="">
+          <div class="sidebar-widget-list-left">
+            <a href="best-selling-products.html">Best Selling Products <span>13</span> </a> 
+          </div>
+        </li>
+        
+        <li class="">
+          <div class="sidebar-widget-list-left">
+            <a href="clearance.html">Clearance <span>7</span> </a> 
+          </div>
+        </li>
+        
+        <li class="active">
+          <div class="sidebar-widget-list-left">
+            <a href="new-in.html">New Arrival <span>7</span> </a> 
+          </div>
+        </li>
+        
+        <li class="">
+          <div class="sidebar-widget-list-left">
+            <a href="newest-products.html">Newest Products <span>13</span> </a> 
+          </div>
+        </li>
+        
+
+      </ul>
+    </div>
+  </div>
+
+  
+  
+  
+  <div class="sidebar-widget mt-50"><h4 class="pro-sidebar-title">Vendors</h4><div class="sidebar-widget-list mt-20">
+      <ul>
+        
+        
+        <li class="">
+          <div class="sidebar-widget-list-left">
+            <a href="vendors446d.html?q=Hijanah%20Haul">Hijanah Haul</a>
+          </div>
+        </li>
+        
+      </ul>
+    </div>
+  </div>
+
+  
+  
+  
+  <div class="sidebar-widget mt-50"><h4 class="pro-sidebar-title">Products Types</h4><div class="sidebar-widget-list mt-20">
+      <ul>
+        
+        
+
+      </ul>
+    </div>
+  </div>
+
+
+  
+  
+  
+  <div class="sidebar-widget mt-50"><h4 class="pro-sidebar-title">Color</h4><div class="sidebar-widget-list mt-20">
+      <ul>
+        
+        
+
+        
+        
+
+        
+
+        
+
+        
+
+        
+
+
+      </ul>
+    </div>
+  </div>
+  
+  
+  
+  
+  <div class="sidebar-widget mt-40"><h4 class="pro-sidebar-title">Size</h4><div class="sidebar-widget-list mt-20">
+      <ul>
+        
+          
+      
+
+      
+      
+
+      
+
+      
+
+      
+
+      
+
+        
+        
+      </ul>
+    </div>
+  </div>
+
+  
+  
+  
+  <div class="sidebar-widget mt-50"><h4 class="pro-sidebar-title">Tags</h4><div class="sidebar-widget-tag mt-25">
+      <ul>
+        
+        
+      </ul>
+    </div>
+  </div>
+  
+
+  
+  
+  
+  
+  
 </div>
 
-<style data-shopify>#section-related-product{padding-top: 0px;
+
+
+
+
+<script>
+  $(".sidebar-widget li.active a").removeAttr("href");
+
+  $('.category-sub-menu li.has-sub > a').on('click', function () {
+    $(this).removeAttr('href');
+    var element = $(this).parent('li');
+    if (element.hasClass('open')) {
+      element.removeClass('open');
+      element.find('li').removeClass('open');
+      element.find('ul').slideUp();
+    } else {
+      element.addClass('open');
+      element.children('ul').slideDown();
+      element.siblings('li').children('ul').slideUp();
+      element.siblings('li').removeClass('open');
+      element.siblings('li').find('li').removeClass('open');
+      element.siblings('li').find('ul').slideUp();
+    }
+  }); 
+</script></div></div>
+  </div>
+</div><style data-shopify>#section-collection-template{padding-top: 90px;
     padding-bottom: 90px;}
   @media (min-width: 768px) and (max-width: 991px) {
-    #section-related-product{padding-top: 0px;
+    #section-collection-template{padding-top: 80px;
       padding-bottom: 80px;}
   }
   @media (max-width: 767px) {
-    #section-related-product{padding-top: 0px;
+    #section-collection-template{padding-top: 70px;
       padding-bottom: 70px;}
-  }</style><script>
-  
-  
-      /* Related product active */
-    $('#section-related-product .related-product-active').owlCarousel({
-        loop: true,
-      
-        nav: false,
-        autoplay: false,
-        autoplayTimeout: 5000,
-        item: 4,
-        margin: 30,
-        responsive: {
-            0: {
-                items: 1
-            },
-            576: {
-                items: 2
-            },
-            768: {
-                items: 2
-            },
-            992: {
-                items: 3
-            },
-            1200: {
-                items: 4
-            }
-        }
-    })
-    
-  
-</script>
-
-
-
-
-
-
-
+  }</style>
 </div>
-</div>
+
+
+
+
             <script>
 $m(".mlvedaform").bind("DOMSubtreeModified", function() {
  
@@ -2971,16 +1084,6 @@ var mlveda_observer = new MutationObserver(function(mutations){
           	<script>one_more_flag = false;</script>
 
 <script>
-  
-  
-  		
-	
-  console.log("one_more_flag : ",one_more_flag);
-$m("<style type=\"text/css\">  div.mlvedaform span.money {visibility:hidden;}</style>").appendTo("head");
-   
-</script>
-
-<script>
   console.log("here");
 
 var mlvedaCallUrl = "//www.mlveda.com/ShopifyApps/ShopifyMultiPricing/getLocation?shop=hijanah-haul.myshopify.com&rnd=" + Math.floor((Math.random() * 10000000000) + 1);
@@ -3011,8 +1114,6 @@ var continentFound = false;
         success: function(response) {
         if (response === "") {
        		$m("<style type=\"text/css\">  div.mlvedaform span.money {visibility:visible;}</style>").appendTo("head");
-              
-                $m("<style type=\"text/css\">button[name='add']{visibility : visible;}</style>").appendTo("head");
               
           $m("<style type=\"text/css\"> div.mlvedaform h2.price {visibility:visible;}</style>").appendTo("head");
       	}
@@ -3055,15 +1156,11 @@ var continentFound = false;
 
                           $m("<style type=\"text/css\">  div.mlvedaform span.money {visibility:visible;}</style>").appendTo("head");
                             
-                              $m("<style type=\"text/css\">button[name='add']{visibility : visible;}</style>").appendTo("head");
-                            
                           $m("<style type=\"text/css\"> div.mlvedaform h2.price {display:block;}</style>").appendTo("head");
                          }
                          else{
                           $m("<style type=\"text/css\">  div.mlvedaform span.money {visibility:visible;}</style>").appendTo("head");	
                              
-                              $m("<style type=\"text/css\">button[name='add']{visibility : visible;}</style>").appendTo("head");
-                            
                          }
 
                  });
@@ -3072,8 +1169,6 @@ var continentFound = false;
                    {
 //                     console.log("1112");
                      $m("<style type=\"text/css\">  div.mlvedaform span.money {visibility:visible;}</style>").appendTo("head");
-                            
-                              $m("<style type=\"text/css\">button[name='add']{visibility : visible;}</style>").appendTo("head");
                                                  
                      $m("<style type=\"text/css\"> div.mlvedaform h2.price {visibility:visible;}</style>").appendTo("head");
                    }
@@ -3085,8 +1180,6 @@ var continentFound = false;
         error: function(xhr, textStatus, errorThrown) {
           console.log("1113");
             $m("<style type=\"text/css\">  div.mlvedaform span.money {visibility:visible;}</style>").appendTo("head");
-              
-                $m("<style type=\"text/css\">button[name='add']{visibility : visible;}</style>").appendTo("head");
                         
           $m("<style type=\"text/css\"> div.mlvedaform h2.price {visibility:visible;}</style>").appendTo("head");
         console.log("timeout");
@@ -3119,8 +1212,6 @@ $m("body").delegate("select", "change", function(event) {
 //      console.log("1114");
     $m("<style type=\"text/css\">  div.mlvedaform span.money {visibility:visible;}</style>").appendTo("head");
         
-          $m("<style type=\"text/css\">button[name='add']{visibility : visible;}</style>").appendTo("head");
-        
       $m("<style type=\"text/css\"> div.mlvedaform h2.price {visibility:visible;}</style>").appendTo("head");
     }
  
@@ -3143,8 +1234,6 @@ $m("body").delegate("select", "change", function(event) {
 //      console.log("1115");
     $m("<style type=\"text/css\">  div.mlvedaform span.money {visibility:visible;}</style>").appendTo("head");
         
-            $m("<style type=\"text/css\">button[name='add']{visibility : visible;}</style>").appendTo("head");
-          
       $m("<style type=\"text/css\"> div.mlvedaform h2.price {visibility:visible;}</style>").appendTo("head");
     }
   else
@@ -3164,8 +1253,6 @@ $m("body").delegate("select", "change", function(event) {
     if(country !== null && continent !== null){
 //      console.log("seen");
         $m("<style type=\"text/css\">  div.mlvedaform span.money {visibility:visible;}</style>").appendTo("head");
-          
-            $m("<style type=\"text/css\">button[name='add']{visibility : visible;}</style>").appendTo("head");
           
     //  $m("<style type=\"text/css\"> div.mlvedaform h2.price {display:block !important;}</style>").appendTo("head");
     }
@@ -3927,7 +2014,7 @@ $m("body").delegate("select", "change", function(event) {
                           if(jQuery(_parent + " .selector-wrapper").length > 2){
                             jQuery(_parent + " .single-option-selector").addClass("select--wd");
                           } else if(jQuery(_parent + " .selector-wrapper").length == 1){
-                            jQuery(_parent + " .single-option-selector").before("<label>Size</label>");
+                            jQuery(_parent + " .single-option-selector").before("<label></label>");
                                                                                 jQuery(_parent + " .single-option-selector").addClass("select--wd");
                           }
                         }
@@ -4118,7 +2205,7 @@ var bfRawUrl = function(){return window.location.href}();
     sc.src = scriptPath + '?shop=' + Shopify.shop;
     node = doc.getElementsByTagName("script")[0];
     node.parentNode.insertBefore(sc, node);
-})(document, 'laura-abaya.html\/\/sdk.boostflow.com\/js\/app.js');
+})(document, 'new-in.html\/\/sdk.boostflow.com\/js\/app.js');
 </script>
 
 <!-- BOOSTFLOWSCRIPT CODE END -->
@@ -4140,7 +2227,7 @@ var dataSet = [];
  
 $m("a").each(function() {
   
-  if($m(this).attr("href") && $m(this).attr("href").replace(/\?.*/,"").toString().indexOf("index.html") != -1){
+  if($m(this).attr("href") && $m(this).attr("href").replace(/\?.*/,"").toString().indexOf("../products/index.html") != -1){
     var $mhandleArray = $m(this).attr('href').split("../index.html");
     var $mhandle = $mhandleArray[$mhandleArray.length - 1].split("\?")[0];
     
@@ -5580,5 +3667,5 @@ var SOCIAL_LOGIN_CUSTOMER_LOGGED_IN = false;
 </script>
 </body>
 
-<!-- Mirrored from hijanahhaul.com/products/laura-abaya by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 05 Dec 2019 00:33:38 GMT -->
+<!-- Mirrored from hijanahhaul.com/collections/new-in by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 05 Dec 2019 00:32:44 GMT -->
 </html>
